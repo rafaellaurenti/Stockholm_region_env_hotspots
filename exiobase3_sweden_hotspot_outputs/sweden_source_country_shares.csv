@@ -1,0 +1,166 @@
+target_region,target_sector,source_country,source_value,source_share,account,indicator,target_sector_value,unit
+SE,Health and social work services (85),AT,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),AU,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),BE,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),BG,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),BR,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),CA,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),CH,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),CN,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),CY,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Health and social work services (85),CZ,11951055.552421503,0.020408163265306124,CBA,economic_importance,60441.09048122,M.EUR
+SE,Construction work (45),AT,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),AU,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),BE,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),BG,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),BR,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),CA,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),CH,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),CN,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),CY,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Construction work (45),CZ,11540133.172283279,0.02040816326530612,CBA,economic_importance,57700.6658621867,M.EUR
+SE,Real estate services (70),AT,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),AU,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),BE,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),BG,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),BR,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),CA,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),CH,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),CN,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),CY,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Real estate services (70),CZ,9140382.257305933,0.02040816326530612,CBA,economic_importance,45701.9112872057,M.EUR
+SE,Education services (80),AT,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),AU,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),BE,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),BG,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),BR,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),CA,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),CH,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),CN,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),CY,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Education services (80),CZ,6171251.402402453,0.02040816326530612,CBA,economic_importance,31241.356603786793,M.EUR
+SE,Computer and related services (72),AT,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),AU,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),BE,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),BG,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),BR,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),CA,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),CH,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),CN,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),CY,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Computer and related services (72),CZ,4469571.08094739,0.020408163265306117,CBA,economic_importance,25365.892779729256,M.EUR
+SE,Construction work (45),AT,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),AU,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),BE,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),BG,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),BR,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),CA,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),CH,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),CN,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),CY,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Construction work (45),CZ,1144442282570.601,0.02040816326530612,CBA,materials,5722211413.118128,
+SE,Machinery and equipment n.e.c. (29),AT,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),AU,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),BE,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),BG,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),BR,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),CA,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),CH,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),CN,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),CY,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,Machinery and equipment n.e.c. (29),CZ,17635550256.061234,0.02040816326530612,CBA,materials,5302358518.818183,
+SE,"Motor vehicles, trailers and semi-trailers (34)",AT,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",AU,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",BE,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",BG,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",BR,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",CA,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",CH,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",CN,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",CY,0.0,,CBA,materials,3980706938.7935724,
+SE,"Motor vehicles, trailers and semi-trailers (34)",CZ,0.0,,CBA,materials,3980706938.7935724,
+SE,Real estate services (70),AT,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),AU,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),BE,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),BG,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),BR,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),CA,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),CH,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),CN,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),CY,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,Real estate services (70),CZ,641037363137.667,0.02040816326530612,CBA,materials,3205186815.7286606,
+SE,"Fabricated metal products, except machinery and equipment (28)",AT,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",AU,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",BE,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",BG,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",BR,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",CA,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",CH,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",CN,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",CY,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,"Fabricated metal products, except machinery and equipment (28)",CZ,61491042600.39387,0.02040816326530612,CBA,materials,3035187242.3083873,
+SE,Construction work (45),AT,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),AU,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),BE,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),BG,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),BR,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),CA,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),CH,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),CN,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),CY,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Construction work (45),CZ,2166883782322.5864,0.02040816326530612,CBA,ghg,10834418912.021866,kg CO2-Equivalents
+SE,Real estate services (70),AT,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),AU,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),BE,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),BG,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),BR,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),CA,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),CH,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),CN,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),CY,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Real estate services (70),CZ,1562592971835.9666,0.020408163265306124,CBA,ghg,7812964859.283664,kg CO2-Equivalents
+SE,Steam and hot water supply services,AT,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,AU,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,BE,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,BG,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,BR,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,CA,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,CH,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,CN,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,CY,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Steam and hot water supply services,CZ,872199897812.5582,0.020408163265306124,CBA,ghg,4360999489.06278,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),AT,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),AU,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),BE,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),BG,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),BR,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),CA,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),CH,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),CN,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),CY,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Machinery and equipment n.e.c. (29),CZ,18614507778.111267,0.02040816326530612,CBA,ghg,4178177664.55005,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),AT,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),AU,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),BE,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),BG,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),BR,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),CA,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),CH,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),CN,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),CY,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Supporting and auxiliary transport services; travel agency services (63),CZ,800630833669.6943,0.02040816326530612,CBA,ghg,4146252912.6305876,kg CO2-Equivalents
+SE,Health and social work services (85),SE,53334.147824786385,1.0,PBA,economic_importance,53334.147824786385,M.EUR
+SE,Other business services (74),SE,47257.83262301194,1.0,PBA,economic_importance,47257.83262301194,M.EUR
+SE,Construction work (45),SE,34933.695864741574,1.0,PBA,economic_importance,34933.695864741574,M.EUR
+SE,Education services (80),SE,26784.143644481985,1.0,PBA,economic_importance,26784.143644481985,M.EUR
+SE,Computer and related services (72),SE,26654.25556479436,1.0,PBA,economic_importance,26654.25556479436,M.EUR
+SE,Basic iron and steel and of ferro-alloys and first products thereof,SE,6791297846.320047,1.0,PBA,materials,6791297846.320047,
+SE,Sea and coastal water transportation services,SE,3420363953.5450087,1.0,PBA,materials,3420363953.5450087,
+SE,Cattle,SE,1028188951.7674385,1.0,PBA,materials,1028188951.7674385,
+SE,Raw milk,SE,842125125.5121837,1.0,PBA,materials,842125125.5121837,
+SE,Other business services (74),SE,705363727.8334492,1.0,PBA,materials,705363727.8334492,
+SE,Steam and hot water supply services,SE,5535877320.738843,1.0,PBA,ghg,5535877320.738843,kg CO2-Equivalents
+SE,Food waste for treatment: landfill,SE,3781346327.330443,1.0,PBA,ghg,3781346327.330443,kg CO2-Equivalents
+SE,Paper for treatment: landfill,SE,2890669470.9351516,1.0,PBA,ghg,2890669470.9351516,kg CO2-Equivalents
+SE,Sea and coastal water transportation services,SE,2850031752.5225816,1.0,PBA,ghg,2850031752.5225816,kg CO2-Equivalents
+SE,Basic iron and steel and of ferro-alloys and first products thereof,SE,2400098735.5319223,1.0,PBA,ghg,2400098735.5319223,kg CO2-Equivalents
