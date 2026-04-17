@@ -1,0 +1,1201 @@
+account,indicator,region,sector,value,share_of_region_total,rank,unit
+CBA,economic_importance,SE,Health and social work services (85),60441.09048122,0.12468795087059945,1,M.EUR
+CBA,economic_importance,SE,Construction work (45),57700.6658621867,0.11903454641442446,2,M.EUR
+CBA,economic_importance,SE,Real estate services (70),45701.9112872057,0.0942815164965001,3,M.EUR
+CBA,economic_importance,SE,Education services (80),31241.356603786793,0.06444987518142503,4,M.EUR
+CBA,economic_importance,SE,Computer and related services (72),25365.892779729256,0.05232898955869291,5,M.EUR
+CBA,economic_importance,SE,Public administration and defence services; compulsory social security services (75),22909.817870477687,0.04726218905623629,6,M.EUR
+CBA,economic_importance,SE,Membership organisation services n.e.c. (91),20456.75807747164,0.042201608637886315,7,M.EUR
+CBA,economic_importance,SE,Supporting and auxiliary transport services; travel agency services (63),20138.603056772135,0.04154526545687537,8,M.EUR
+CBA,economic_importance,SE,Hotel and restaurant services (55),16414.736724983624,0.03386305359521154,9,M.EUR
+CBA,economic_importance,SE,Post and telecommunication services (64),13404.081885068164,0.027652173219313094,10,M.EUR
+CBA,economic_importance,SE,Machinery and equipment n.e.c. (29),12026.282055027787,0.02480981818981583,11,M.EUR
+CBA,economic_importance,SE,"Recreational, cultural and sporting services (92)",10887.575563313349,0.022460704731331178,12,M.EUR
+CBA,economic_importance,SE,"Motor vehicles, trailers and semi-trailers (34)",9774.524347358332,0.020164517249826645,13,M.EUR
+CBA,economic_importance,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",9514.321778750766,0.019627728041812193,14,M.EUR
+CBA,economic_importance,SE,Food products nec,7871.277603240851,0.01623818278703456,15,M.EUR
+CBA,economic_importance,SE,Research and development services (73),6942.479203280754,0.014322102710701392,16,M.EUR
+CBA,economic_importance,SE,Other land transportation services,6785.1730143207205,0.013997585297059023,17,M.EUR
+CBA,economic_importance,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",6274.31058939081,0.012943693177738507,18,M.EUR
+CBA,economic_importance,SE,"Insurance and pension funding services, except compulsory social security services (66)",6119.072052321358,0.012623441260884792,19,M.EUR
+CBA,economic_importance,SE,"Financial intermediation services, except insurance and pension funding services (65)",5714.139763951446,0.0117880794751163,20,M.EUR
+CBA,economic_importance,SE,Furniture; other manufactured goods n.e.c. (36),4572.128163270207,0.009432147687227043,21,M.EUR
+CBA,economic_importance,SE,"Fabricated metal products, except machinery and equipment (28)",4053.147682015563,0.008361508288859707,22,M.EUR
+CBA,economic_importance,SE,Electrical machinery and apparatus n.e.c. (31),4002.3721066360476,0.008256759972806166,23,M.EUR
+CBA,economic_importance,SE,Other business services (74),3992.3842360814215,0.00823615532945672,24,M.EUR
+CBA,economic_importance,SE,"Plastics, basic",3968.3596002462,0.00818659330817524,25,M.EUR
+CBA,economic_importance,SE,Other services (93),3716.1953820159374,0.007666386948500317,26,M.EUR
+CBA,economic_importance,SE,Distribution and trade services of electricity,3642.1304573428074,0.007513593482741334,27,M.EUR
+CBA,economic_importance,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),3573.4203772459127,0.007371846882486023,28,M.EUR
+CBA,economic_importance,SE,Air transport services (62),3548.900979575126,0.007321264184063305,29,M.EUR
+CBA,economic_importance,SE,Dairy products,3497.712246725036,0.007215663537947838,30,M.EUR
+CBA,economic_importance,SE,"Medical, precision and optical instruments, watches and clocks (33)",3354.308936852998,0.006919827299494102,31,M.EUR
+CBA,economic_importance,SE,Steam and hot water supply services,2784.1117834865645,0.005743529617247611,32,M.EUR
+CBA,economic_importance,SE,Office machinery and computers (30),2600.98618982474,0.005365747634099083,33,M.EUR
+CBA,economic_importance,SE,"Products of forestry, logging and related services (02)",2552.470803635615,0.005265662012852766,34,M.EUR
+CBA,economic_importance,SE,Railway transportation services,2512.0085238538077,0.005182189681143032,35,M.EUR
+CBA,economic_importance,SE,Printed matter and recorded media (22),2492.2369140217497,0.005141401510450805,36,M.EUR
+CBA,economic_importance,SE,Meat products nec,2146.905654728548,0.00442899465693429,37,M.EUR
+CBA,economic_importance,SE,Other transport equipment (35),2120.688280714468,0.0043749090900294454,38,M.EUR
+CBA,economic_importance,SE,Textiles (17),1988.5014325821735,0.004102212037503893,39,M.EUR
+CBA,economic_importance,SE,Motor Gasoline,1966.1095605616547,0.0040560183534362184,40,M.EUR
+CBA,economic_importance,SE,Rubber and plastic products (25),1954.3371958415757,0.004031732358227313,41,M.EUR
+CBA,economic_importance,SE,Wearing apparel; furs (18),1951.302492408588,0.004025471866407153,42,M.EUR
+CBA,economic_importance,SE,"Radio, television and communication equipment and apparatus (32)",1945.7553149021533,0.004014028224492589,43,M.EUR
+CBA,economic_importance,SE,Electricity by hydro,1867.0762167973655,0.0038517158730620492,44,M.EUR
+CBA,economic_importance,SE,Products of meat cattle,1620.551022991794,0.003343142632426275,45,M.EUR
+CBA,economic_importance,SE,"Vegetables, fruit, nuts",1575.3166408457428,0.0032498256129320406,46,M.EUR
+CBA,economic_importance,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",1510.4383835408214,0.003115983935109903,47,M.EUR
+CBA,economic_importance,SE,Electricity by nuclear,1455.4222451769979,0.00300248747925873,48,M.EUR
+CBA,economic_importance,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),1075.605912318772,0.0022189390708131085,49,M.EUR
+CBA,economic_importance,SE,Products of meat pigs,1015.2310186067156,0.002094387681666256,50,M.EUR
+CBA,economic_importance,SE,Beverages,970.5130444271479,0.0020021359945583414,51,M.EUR
+CBA,economic_importance,SE,Products of meat poultry,889.2226915467705,0.0018344367117442504,52,M.EUR
+CBA,economic_importance,SE,Transmission services of electricity,822.004301120625,0.0016957674174557858,53,M.EUR
+CBA,economic_importance,SE,Leather and leather products (19),612.9101898523411,0.0012644132498592852,54,M.EUR
+CBA,economic_importance,SE,Paper and paper products,534.068397959292,0.0011017652665776955,55,M.EUR
+CBA,economic_importance,SE,Wheat,504.17577659265606,0.0010400977871414226,56,M.EUR
+CBA,economic_importance,SE,Crops nec,484.4226314419065,0.0009993477084699967,57,M.EUR
+CBA,economic_importance,SE,Ceramic goods,481.85616178869907,0.0009940531672980527,58,M.EUR
+CBA,economic_importance,SE,Nuclear fuel,466.4386408930402,0.0009622473366507439,59,M.EUR
+CBA,economic_importance,SE,"Lead, zinc and tin ores and concentrates",427.83230385180394,0.0008826037528244863,60,M.EUR
+CBA,economic_importance,SE,Poultry,405.272177164848,0.0008360629649998242,61,M.EUR
+CBA,economic_importance,SE,Private households with employed persons (95),344.4562964906672,0.0007106018344795095,62,M.EUR
+CBA,economic_importance,SE,Other non-metallic mineral products,273.75823606727295,0.0005647540972111378,63,M.EUR
+CBA,economic_importance,SE,Oil seeds,263.43022941535736,0.0005434477644538655,64,M.EUR
+CBA,economic_importance,SE,Sea and coastal water transportation services,259.9040348798954,0.00053617334290559,65,M.EUR
+CBA,economic_importance,SE,products of Vegetable oils and fats,199.19461553216863,0.0004109318385458364,66,M.EUR
+CBA,economic_importance,SE,Pigs,191.99573264605206,0.0003960807836015812,67,M.EUR
+CBA,economic_importance,SE,Electricity by biomass and waste,179.96645119734762,0.0003712647777627931,68,M.EUR
+CBA,economic_importance,SE,Services auxiliary to financial intermediation (67),175.5848966552673,0.0003622257770907335,69,M.EUR
+CBA,economic_importance,SE,Tobacco products (16),167.8315427308301,0.00034623086691430347,70,M.EUR
+CBA,economic_importance,SE,Retail trade services of motor fuel,159.17310320805717,0.0003283687953792603,71,M.EUR
+CBA,economic_importance,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",134.81554607915209,0.00027811996858881035,72,M.EUR
+CBA,economic_importance,SE,Copper products,133.18959050742893,0.0002747656765528685,73,M.EUR
+CBA,economic_importance,SE,Fish and other fishing products; services incidental of fishing (05),128.93486868682544,0.0002659883275488774,74,M.EUR
+CBA,economic_importance,SE,Bitumen,77.28558990247114,0.00015943759055371206,75,M.EUR
+CBA,economic_importance,SE,Cereal grains nec,61.65986741683331,0.0001272022469804155,76,M.EUR
+CBA,economic_importance,SE,Meat animals nec,55.57351412701677,0.00011464630343373915,77,M.EUR
+CBA,economic_importance,SE,Processed rice,53.89282917878969,0.00011117910652208502,78,M.EUR
+CBA,economic_importance,SE,Inland water transportation services,49.79734875165482,0.00010273026719399971,79,M.EUR
+CBA,economic_importance,SE,Cattle,38.5409044101489,7.9508598493839e-05,80,M.EUR
+CBA,economic_importance,SE,Sand and clay,34.896392311562224,7.199009176476074e-05,81,M.EUR
+CBA,economic_importance,SE,Basic iron and steel and of ferro-alloys and first products thereof,32.61971470819534,6.729338191229691e-05,82,M.EUR
+CBA,economic_importance,SE,Stone,31.60644992043686,6.52030504991965e-05,83,M.EUR
+CBA,economic_importance,SE,Copper ores and concentrates,31.582720430174138,6.515409735337294e-05,84,M.EUR
+CBA,economic_importance,SE,Pulp,29.645322960294664,6.115731108400186e-05,85,M.EUR
+CBA,economic_importance,SE,Iron ores,26.988743848002372,5.567687710771076e-05,86,M.EUR
+CBA,economic_importance,SE,Kerosene Type Jet Fuel,26.529851647736898,5.473019782601611e-05,87,M.EUR
+CBA,economic_importance,SE,Gas/Diesel Oil,23.73460645197877,4.896370035111924e-05,88,M.EUR
+CBA,economic_importance,SE,Secondary raw materials,20.81422375226301,4.293904838527408e-05,89,M.EUR
+CBA,economic_importance,SE,Liquefied Petroleum Gases (LPG),20.048062991779382,4.135848432692297e-05,90,M.EUR
+CBA,economic_importance,SE,Electricity by petroleum and other oil derivatives,18.559911924800605,3.8288478381462166e-05,91,M.EUR
+CBA,economic_importance,SE,Heavy Fuel Oil,16.875876127355756,3.481436877979345e-05,92,M.EUR
+CBA,economic_importance,SE,Precious metal ores and concentrates,16.77929943870601,3.461513429686587e-05,93,M.EUR
+CBA,economic_importance,SE,Biogas,15.242210288344879,3.144417071996762e-05,94,M.EUR
+CBA,economic_importance,SE,Aluminium and aluminium products,15.17203588624738,3.129940327233487e-05,95,M.EUR
+CBA,economic_importance,SE,"Cement, lime and plaster",15.131203878045012,3.121516820324281e-05,96,M.EUR
+CBA,economic_importance,SE,Animal products nec,9.161012899796908,1.8898863625396126e-05,97,M.EUR
+CBA,economic_importance,SE,Other Bituminous Coal,9.107920204399631,1.8789335168140044e-05,98,M.EUR
+CBA,economic_importance,SE,Other non-ferrous metal products,7.577728694654636,1.5632601193444866e-05,99,M.EUR
+CBA,economic_importance,SE,"Lead, zinc and tin and products thereof",5.72785135575998,1.1816366031036586e-05,100,M.EUR
+CBA,economic_importance,SE,Sugar,5.3228892424776895,1.0980942717470039e-05,101,M.EUR
+CBA,economic_importance,SE,Precious metals,4.902510143077372,1.0113714676484574e-05,102,M.EUR
+CBA,economic_importance,SE,Foundry work services,3.9159322444358287,8.078437424263943e-06,103,M.EUR
+CBA,economic_importance,SE,N-fertiliser,3.656661285381805,7.543570095641769e-06,104,M.EUR
+CBA,economic_importance,SE,Electricity nec,3.2719652256795464,6.749954973704607e-06,105,M.EUR
+CBA,economic_importance,SE,P- and other fertiliser,2.378848205954979,4.907484393003971e-06,106,M.EUR
+CBA,economic_importance,SE,Raw milk,2.3686901219996153,4.8865286050940995e-06,107,M.EUR
+CBA,economic_importance,SE,Fish products,2.347081585592045,4.841950916231754e-06,108,M.EUR
+CBA,economic_importance,SE,Glass and glass products,2.2098279656415496,4.55880128268044e-06,109,M.EUR
+CBA,economic_importance,SE,Electricity by wind,2.2087319479866596,4.5565402348664744e-06,110,M.EUR
+CBA,economic_importance,SE,Other non-ferrous metal ores and concentrates,2.1111933614016984,4.355321388626891e-06,111,M.EUR
+CBA,economic_importance,SE,Electricity by gas,1.5710403063569212,3.2410036777154003e-06,112,M.EUR
+CBA,economic_importance,SE,Naphtha,1.4758098033459273,3.0445463307966387e-06,113,M.EUR
+CBA,economic_importance,SE,Biodiesels,1.1845967907455868,2.44378361260457e-06,114,M.EUR
+CBA,economic_importance,SE,"Bricks, tiles and construction products, in baked clay",1.150284354095294,2.372998201864312e-06,115,M.EUR
+CBA,economic_importance,SE,Other Liquid Biofuels,0.6407885333787897,1.3219253413901221e-06,116,M.EUR
+CBA,economic_importance,SE,Gas Works Gas,0.6090576985004623,1.256465688877378e-06,117,M.EUR
+CBA,economic_importance,SE,Biogasoline,0.40158366644425936,8.284536905831533e-07,118,M.EUR
+CBA,economic_importance,SE,Refinery Feedstocks,0.33058121073241004,6.819779960018023e-07,119,M.EUR
+CBA,economic_importance,SE,Electricity by solar photovoltaic,0.2937543447639504,6.060054015625903e-07,120,M.EUR
+CBA,economic_importance,SE,Kerosene,0.24564745721190615,5.067624993603123e-07,121,M.EUR
+CBA,economic_importance,SE,Electricity by coal,0.14489955865002987,2.989229497065451e-07,122,M.EUR
+CBA,economic_importance,SE,Nickel ores and concentrates,0.08889766998830353,1.8339292391583295e-07,123,M.EUR
+CBA,economic_importance,SE,Paddy rice,0.07983380347298666,1.6469447003683385e-07,124,M.EUR
+CBA,economic_importance,SE,Aviation Gasoline,0.07626641792436949,1.573350728042397e-07,125,M.EUR
+CBA,economic_importance,SE,Peat,0.04765091785633561,9.830225194986944e-08,126,M.EUR
+CBA,economic_importance,SE,Coke Oven Coke,0.023356527770425666,4.818373665927682e-08,127,M.EUR
+CBA,economic_importance,SE,Coking Coal,0.02104121675221186,4.340732736237802e-08,128,M.EUR
+CBA,economic_importance,SE,Additives/Blending Components,0.020143756285209792,4.155589639501933e-08,129,M.EUR
+CBA,economic_importance,SE,Paraffin Waxes,0.010716756440316498,2.210831058611621e-08,130,M.EUR
+CBA,economic_importance,SE,Lubricants,0.009611272079097443,1.9827733273191536e-08,131,M.EUR
+CBA,economic_importance,SE,Charcoal,0.008343264258976513,1.7211875492996454e-08,132,M.EUR
+CBA,economic_importance,SE,Coal Tar,0.002783609693367887,5.742493822103085e-09,133,M.EUR
+CBA,economic_importance,SE,Aluminium ores and concentrates,0.00233222559594267,4.811303505789831e-09,134,M.EUR
+CBA,economic_importance,SE,"Sugar cane, sugar beet",4.3015211768412614e-05,8.873894512764922e-11,135,M.EUR
+CBA,economic_importance,SE,Plant-based fibers,3.987709773048774e-05,8.226512068352054e-11,136,M.EUR
+CBA,economic_importance,SE,"Wool, silk-worm cocoons",2.394864555120102e-05,4.940525586369729e-11,137,M.EUR
+CBA,economic_importance,SE,Electricity by solar thermal,3.8989602354618563e-07,8.043424736632512e-13,138,M.EUR
+CBA,economic_importance,SE,BKB/Peat Briquettes,3.467806236378713e-07,7.153968437493677e-13,139,M.EUR
+CBA,economic_importance,SE,Other Hydrocarbons,3.081358794473632e-07,6.356740272569988e-13,140,M.EUR
+CBA,economic_importance,SE,Electricity by Geothermal,2.838024694234773e-07,5.854750151376663e-13,141,M.EUR
+CBA,economic_importance,SE,Natural Gas Liquids,2.508087758016395e-07,5.174101272177904e-13,142,M.EUR
+CBA,economic_importance,SE,Lignite/Brown Coal,8.75387854848289e-08,1.805895905732502e-13,143,M.EUR
+CBA,economic_importance,SE,Patent Fuel,7.577680903825512e-08,1.5632502602560645e-13,144,M.EUR
+CBA,economic_importance,SE,Anthracite,4.387033453711793e-08,9.050303483754266e-14,145,M.EUR
+CBA,economic_importance,SE,Manure (biogas treatment),0.0,0.0,146,M.EUR
+CBA,economic_importance,SE,Manure (conventional treatment),0.0,0.0,147,M.EUR
+CBA,economic_importance,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,148,M.EUR
+CBA,economic_importance,SE,Sub-Bituminous Coal,0.0,0.0,149,M.EUR
+CBA,economic_importance,SE,Uranium and thorium ores (12),0.0,0.0,150,M.EUR
+CBA,economic_importance,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,151,M.EUR
+CBA,economic_importance,SE,"Natural gas and services related to natural gas extraction, excluding surveying",0.0,0.0,152,M.EUR
+CBA,economic_importance,SE,Gasoline Type Jet Fuel,0.0,0.0,153,M.EUR
+CBA,economic_importance,SE,Gas Coke,0.0,0.0,154,M.EUR
+CBA,economic_importance,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,155,M.EUR
+CBA,economic_importance,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,156,M.EUR
+CBA,economic_importance,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,157,M.EUR
+CBA,economic_importance,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,158,M.EUR
+CBA,economic_importance,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,159,M.EUR
+CBA,economic_importance,SE,Refinery Gas,0.0,0.0,160,M.EUR
+CBA,economic_importance,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,161,M.EUR
+CBA,economic_importance,SE,Non-specified Petroleum Products,0.0,0.0,162,M.EUR
+CBA,economic_importance,SE,Petroleum Coke,0.0,0.0,163,M.EUR
+CBA,economic_importance,SE,White Spirit & SBP,0.0,0.0,164,M.EUR
+CBA,economic_importance,SE,Ethane,0.0,0.0,165,M.EUR
+CBA,economic_importance,SE,Chemicals nec,0.0,0.0,166,M.EUR
+CBA,economic_importance,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,167,M.EUR
+CBA,economic_importance,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,168,M.EUR
+CBA,economic_importance,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,169,M.EUR
+CBA,economic_importance,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,170,M.EUR
+CBA,economic_importance,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,171,M.EUR
+CBA,economic_importance,SE,"Electricity by tide, wave, ocean",0.0,0.0,172,M.EUR
+CBA,economic_importance,SE,Oxygen Steel Furnace Gas,0.0,0.0,173,M.EUR
+CBA,economic_importance,SE,Distribution services of gaseous fuels through mains,0.0,0.0,174,M.EUR
+CBA,economic_importance,SE,"Collected and purified water, distribution services of water (41)",0.0,0.0,175,M.EUR
+CBA,economic_importance,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,176,M.EUR
+CBA,economic_importance,SE,Transportation services via pipelines,0.0,0.0,177,M.EUR
+CBA,economic_importance,SE,Blast Furnace Gas,0.0,0.0,178,M.EUR
+CBA,economic_importance,SE,Coke oven gas,0.0,0.0,179,M.EUR
+CBA,economic_importance,SE,Textiles waste for treatment: incineration,0.0,0.0,180,M.EUR
+CBA,economic_importance,SE,Paper waste for treatment: incineration,0.0,0.0,181,M.EUR
+CBA,economic_importance,SE,Plastic waste for treatment: incineration,0.0,0.0,182,M.EUR
+CBA,economic_importance,SE,Intert/metal waste for treatment: incineration,0.0,0.0,183,M.EUR
+CBA,economic_importance,SE,Food waste for treatment: incineration,0.0,0.0,184,M.EUR
+CBA,economic_importance,SE,Paper waste for treatment: biogasification and land application,0.0,0.0,185,M.EUR
+CBA,economic_importance,SE,Food waste for treatment: biogasification and land application,0.0,0.0,186,M.EUR
+CBA,economic_importance,SE,Oil/hazardous waste for treatment: incineration,0.0,0.0,187,M.EUR
+CBA,economic_importance,SE,Wood waste for treatment: incineration,0.0,0.0,188,M.EUR
+CBA,economic_importance,SE,Sewage sludge for treatment: biogasification and land application,0.0,0.0,189,M.EUR
+CBA,economic_importance,SE,Food waste for treatment: composting and land application,0.0,0.0,190,M.EUR
+CBA,economic_importance,SE,Paper and wood waste for treatment: composting and land application,0.0,0.0,191,M.EUR
+CBA,economic_importance,SE,Food waste for treatment: waste water treatment,0.0,0.0,192,M.EUR
+CBA,economic_importance,SE,Plastic waste for treatment: landfill,0.0,0.0,193,M.EUR
+CBA,economic_importance,SE,Paper for treatment: landfill,0.0,0.0,194,M.EUR
+CBA,economic_importance,SE,Food waste for treatment: landfill,0.0,0.0,195,M.EUR
+CBA,economic_importance,SE,Other waste for treatment: waste water treatment,0.0,0.0,196,M.EUR
+CBA,economic_importance,SE,Wood waste for treatment: landfill,0.0,0.0,197,M.EUR
+CBA,economic_importance,SE,Textiles waste for treatment: landfill,0.0,0.0,198,M.EUR
+CBA,economic_importance,SE,Inert/metal/hazardous waste for treatment: landfill,0.0,0.0,199,M.EUR
+CBA,economic_importance,SE,Extra-territorial organizations and bodies,0.0,0.0,200,M.EUR
+PBA,economic_importance,SE,Health and social work services (85),53334.147824786385,0.10651721187916262,1,M.EUR
+PBA,economic_importance,SE,Other business services (74),47257.83262301194,0.0943817943241981,2,M.EUR
+PBA,economic_importance,SE,Construction work (45),34933.695864741574,0.06976843234415753,3,M.EUR
+PBA,economic_importance,SE,Education services (80),26784.143644481985,0.053492413771263646,4,M.EUR
+PBA,economic_importance,SE,Computer and related services (72),26654.25556479436,0.05323300555590946,5,M.EUR
+PBA,economic_importance,SE,Other land transportation services,20523.25284018363,0.040988367872852975,6,M.EUR
+PBA,economic_importance,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",19804.53334411502,0.039552964853085466,7,M.EUR
+PBA,economic_importance,SE,Supporting and auxiliary transport services; travel agency services (63),18938.58486330702,0.03782352093078475,8,M.EUR
+PBA,economic_importance,SE,Public administration and defence services; compulsory social security services (75),18579.775956192265,0.03710691954233037,9,M.EUR
+PBA,economic_importance,SE,Membership organisation services n.e.c. (91),16987.276043615435,0.033926430914992416,10,M.EUR
+PBA,economic_importance,SE,Post and telecommunication services (64),14571.42272818753,0.029101567858891977,11,M.EUR
+PBA,economic_importance,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",13244.751898407474,0.026451984362520574,12,M.EUR
+PBA,economic_importance,SE,"Financial intermediation services, except insurance and pension funding services (65)",11768.69086346522,0.023504043645026795,13,M.EUR
+PBA,economic_importance,SE,Machinery and equipment n.e.c. (29),11748.119927152515,0.02346296004528556,14,M.EUR
+PBA,economic_importance,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),10270.65658641955,0.02051221868863056,15,M.EUR
+PBA,economic_importance,SE,Hotel and restaurant services (55),10080.785480103317,0.020133014338583402,16,M.EUR
+PBA,economic_importance,SE,"Motor vehicles, trailers and semi-trailers (34)",10043.008587933342,0.02005756756777111,17,M.EUR
+PBA,economic_importance,SE,"Recreational, cultural and sporting services (92)",8826.90373677051,0.01762880281982498,18,M.EUR
+PBA,economic_importance,SE,Real estate services (70),7580.061182337319,0.015138649738410326,19,M.EUR
+PBA,economic_importance,SE,"Fabricated metal products, except machinery and equipment (28)",7524.511520638086,0.015027707774839978,20,M.EUR
+PBA,economic_importance,SE,Research and development services (73),7467.847123489998,0.014914539498169345,21,M.EUR
+PBA,economic_importance,SE,"Insurance and pension funding services, except compulsory social security services (66)",5417.093437304988,0.010818841454563875,22,M.EUR
+PBA,economic_importance,SE,"Products of forestry, logging and related services (02)",5208.413182493952,0.010402072089658517,23,M.EUR
+PBA,economic_importance,SE,"Medical, precision and optical instruments, watches and clocks (33)",4855.0453100838695,0.009696337357373153,24,M.EUR
+PBA,economic_importance,SE,Electrical machinery and apparatus n.e.c. (31),4772.965051723763,0.009532409355756584,25,M.EUR
+PBA,economic_importance,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",4757.944121909242,0.009502410047078556,26,M.EUR
+PBA,economic_importance,SE,Printed matter and recorded media (22),4709.260459152018,0.009405180631545362,27,M.EUR
+PBA,economic_importance,SE,Distribution and trade services of electricity,4676.234825017029,0.009339222917546498,28,M.EUR
+PBA,economic_importance,SE,"Plastics, basic",4334.169274552757,0.008656060812190199,29,M.EUR
+PBA,economic_importance,SE,Railway transportation services,3793.8521361133917,0.0075769571335083455,30,M.EUR
+PBA,economic_importance,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),3680.1283930967884,0.0073498318015280464,31,M.EUR
+PBA,economic_importance,SE,Other services (93),3359.0315100966322,0.006708547631531967,32,M.EUR
+PBA,economic_importance,SE,Paper and paper products,3088.8905051521456,0.00616903087098575,33,M.EUR
+PBA,economic_importance,SE,Food products nec,3050.2070680372804,0.006091773578323741,34,M.EUR
+PBA,economic_importance,SE,Electricity by nuclear,3015.381029516107,0.006022220155697427,35,M.EUR
+PBA,economic_importance,SE,Electricity by hydro,2672.560258840136,0.0053375497492885015,36,M.EUR
+PBA,economic_importance,SE,Furniture; other manufactured goods n.e.c. (36),2608.3996925343276,0.005209410369281257,37,M.EUR
+PBA,economic_importance,SE,Rubber and plastic products (25),2504.829949729794,0.005002564273702433,38,M.EUR
+PBA,economic_importance,SE,Sea and coastal water transportation services,2343.1436377656137,0.004679649671109962,39,M.EUR
+PBA,economic_importance,SE,Air transport services (62),2305.5085707922585,0.004604486148931695,40,M.EUR
+PBA,economic_importance,SE,Basic iron and steel and of ferro-alloys and first products thereof,2301.850153047038,0.004597179676924486,41,M.EUR
+PBA,economic_importance,SE,Steam and hot water supply services,2123.374984070858,0.004240734919403299,42,M.EUR
+PBA,economic_importance,SE,Other transport equipment (35),1726.8439508371239,0.003448796137098585,43,M.EUR
+PBA,economic_importance,SE,"Collected and purified water, distribution services of water (41)",1614.4779829078077,0.0032243825090182325,44,M.EUR
+PBA,economic_importance,SE,Transmission services of electricity,1581.1844889545127,0.0031578898341700066,45,M.EUR
+PBA,economic_importance,SE,Copper ores and concentrates,1561.539612047556,0.003118655729920085,46,M.EUR
+PBA,economic_importance,SE,Services auxiliary to financial intermediation (67),1544.7324380968234,0.003085088993001714,47,M.EUR
+PBA,economic_importance,SE,Intert/metal waste for treatment: incineration,1195.8628455397175,0.0023883380777966444,48,M.EUR
+PBA,economic_importance,SE,"Cement, lime and plaster",1125.2128200142777,0.002247238162543772,49,M.EUR
+PBA,economic_importance,SE,Dairy products,845.254683410459,0.001688114948427921,50,M.EUR
+PBA,economic_importance,SE,Meat products nec,770.1631841250346,0.0015381446673617197,51,M.EUR
+PBA,economic_importance,SE,Raw milk,754.1087164984473,0.0015060812108421496,52,M.EUR
+PBA,economic_importance,SE,Stone,751.0714414857707,0.0015000152647409127,53,M.EUR
+PBA,economic_importance,SE,Beverages,742.704213765721,0.0014833045117946823,54,M.EUR
+PBA,economic_importance,SE,Sand and clay,723.2470134154646,0.001444445229012247,55,M.EUR
+PBA,economic_importance,SE,Textiles (17),679.2904535941854,0.0013566566285204188,56,M.EUR
+PBA,economic_importance,SE,Products of meat cattle,613.9005953614884,0.0012260621469698271,57,M.EUR
+PBA,economic_importance,SE,Pulp,561.1243395258892,0.0011206591386852015,58,M.EUR
+PBA,economic_importance,SE,"Radio, television and communication equipment and apparatus (32)",446.9223355352911,0.000892578639563807,59,M.EUR
+PBA,economic_importance,SE,Nuclear fuel,428.6548104945758,0.0008560953373150836,60,M.EUR
+PBA,economic_importance,SE,Aluminium and aluminium products,422.08834982947695,0.000842981017306478,61,M.EUR
+PBA,economic_importance,SE,Pigs,415.02484745775104,0.0008288740218931485,62,M.EUR
+PBA,economic_importance,SE,Office machinery and computers (30),407.9468524318742,0.0008147380822259809,63,M.EUR
+PBA,economic_importance,SE,Secondary raw materials,393.4038006506414,0.0007856931758924201,64,M.EUR
+PBA,economic_importance,SE,Electricity by biomass and waste,377.7034166797524,0.0007543368836440571,65,M.EUR
+PBA,economic_importance,SE,Cereal grains nec,357.1752735563206,0.0007133387490577918,66,M.EUR
+PBA,economic_importance,SE,Gas/Diesel Oil,341.43937583969426,0.0006819115299204917,67,M.EUR
+PBA,economic_importance,SE,Iron ores,324.74601753438174,0.0006485721018785687,68,M.EUR
+PBA,economic_importance,SE,Poultry,323.16524288592683,0.0006454150305644109,69,M.EUR
+PBA,economic_importance,SE,Copper products,306.6896643878843,0.0006125105452153044,70,M.EUR
+PBA,economic_importance,SE,Motor Gasoline,297.8945443135024,0.000594945219684215,71,M.EUR
+PBA,economic_importance,SE,Wheat,287.0126183241674,0.0005732121937799241,72,M.EUR
+PBA,economic_importance,SE,"Vegetables, fruit, nuts",286.81226895455643,0.0005728120625858752,73,M.EUR
+PBA,economic_importance,SE,Products of meat poultry,281.03835216694534,0.0005612805852318337,74,M.EUR
+PBA,economic_importance,SE,Transportation services via pipelines,269.66729453907413,0.0005385706816515383,75,M.EUR
+PBA,economic_importance,SE,Foundry work services,254.22109679689038,0.0005077220418075732,76,M.EUR
+PBA,economic_importance,SE,Products of meat pigs,245.3549883275903,0.0004900149405809706,77,M.EUR
+PBA,economic_importance,SE,Retail trade services of motor fuel,232.00398927793626,0.0004633507628904894,78,M.EUR
+PBA,economic_importance,SE,Glass and glass products,228.93879886361597,0.0004572290650640849,79,M.EUR
+PBA,economic_importance,SE,Food waste for treatment: incineration,216.06519276181422,0.0004315183209213385,80,M.EUR
+PBA,economic_importance,SE,Wood waste for treatment: incineration,215.37876052936625,0.0004301474009661804,81,M.EUR
+PBA,economic_importance,SE,Paper waste for treatment: incineration,208.2153595069613,0.00041584089124213625,82,M.EUR
+PBA,economic_importance,SE,Oil/hazardous waste for treatment: incineration,192.16360843657208,0.0003837828601395633,83,M.EUR
+PBA,economic_importance,SE,Oil seeds,191.0092153617642,0.00038147734412859966,84,M.EUR
+PBA,economic_importance,SE,Crops nec,174.15067070923715,0.00034780801132840427,85,M.EUR
+PBA,economic_importance,SE,Food waste for treatment: composting and land application,160.3358015683876,0.0003202174074962586,86,M.EUR
+PBA,economic_importance,SE,Other non-metallic mineral products,159.20592755452563,0.0003179608601501442,87,M.EUR
+PBA,economic_importance,SE,Electricity by wind,156.43471614971108,0.000312426287565647,88,M.EUR
+PBA,economic_importance,SE,Heavy Fuel Oil,153.48076254178113,0.00030652674824290817,89,M.EUR
+PBA,economic_importance,SE,Plastic waste for treatment: incineration,152.63366826291602,0.0003048349593147354,90,M.EUR
+PBA,economic_importance,SE,"Lead, zinc and tin and products thereof",145.9385354521869,0.00029146365951441985,91,M.EUR
+PBA,economic_importance,SE,Ceramic goods,138.66108380036528,0.00027692937161159163,92,M.EUR
+PBA,economic_importance,SE,Fish and other fishing products; services incidental of fishing (05),136.8730365022984,0.00027335834215549444,93,M.EUR
+PBA,economic_importance,SE,Private households with employed persons (95),129.49492216752233,0.000258623014041734,94,M.EUR
+PBA,economic_importance,SE,Sewage sludge for treatment: biogasification and land application,123.84423489714216,0.0002473376466403588,95,M.EUR
+PBA,economic_importance,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",122.68293014681349,0.000245018326857592,96,M.EUR
+PBA,economic_importance,SE,Leather and leather products (19),120.73585321590592,0.00024112968863136862,97,M.EUR
+PBA,economic_importance,SE,Inert/metal/hazardous waste for treatment: landfill,114.52516350163125,0.00022872590270449036,98,M.EUR
+PBA,economic_importance,SE,Wearing apparel; furs (18),112.54922869382713,0.00022477963047241636,99,M.EUR
+PBA,economic_importance,SE,Chemicals nec,110.72043867195848,0.0002211272309837842,100,M.EUR
+PBA,economic_importance,SE,Inland water transportation services,104.34959949549592,0.00020840359980031268,101,M.EUR
+PBA,economic_importance,SE,Cattle,100.36885310408631,0.00020045338358604082,102,M.EUR
+PBA,economic_importance,SE,"Lead, zinc and tin ores and concentrates",90.77065937573235,0.00018128418567593202,103,M.EUR
+PBA,economic_importance,SE,Fish products,85.32858125537163,0.00017041544563130303,104,M.EUR
+PBA,economic_importance,SE,Other waste for treatment: waste water treatment,81.06036502857025,0.0001618911040843102,105,M.EUR
+PBA,economic_importance,SE,Bitumen,77.098120546886,0.0001539778392776967,106,M.EUR
+PBA,economic_importance,SE,Meat animals nec,68.5639376422306,0.00013693364890913435,107,M.EUR
+PBA,economic_importance,SE,Textiles waste for treatment: incineration,60.068870770522715,0.00011996757979945154,108,M.EUR
+PBA,economic_importance,SE,Precious metal ores and concentrates,51.18281564686684,0.0001022206417685698,109,M.EUR
+PBA,economic_importance,SE,Paper for treatment: landfill,49.99896432369111,9.985629270953162e-05,110,M.EUR
+PBA,economic_importance,SE,Food waste for treatment: waste water treatment,48.85100696251427,9.756362989488567e-05,111,M.EUR
+PBA,economic_importance,SE,Distribution services of gaseous fuels through mains,43.37050080848691,8.661814264098999e-05,112,M.EUR
+PBA,economic_importance,SE,Sugar,31.804271449998158,6.351844847753363e-05,113,M.EUR
+PBA,economic_importance,SE,products of Vegetable oils and fats,27.83473833571782,5.559062705280189e-05,114,M.EUR
+PBA,economic_importance,SE,Animal products nec,27.238783389224633,5.440040536753952e-05,115,M.EUR
+PBA,economic_importance,SE,Nickel ores and concentrates,18.992064953957087,3.793032961489093e-05,116,M.EUR
+PBA,economic_importance,SE,Electricity by petroleum and other oil derivatives,18.03652703330527,3.602196059984608e-05,117,M.EUR
+PBA,economic_importance,SE,Electricity by gas,17.931109870987544,3.581142489856918e-05,118,M.EUR
+PBA,economic_importance,SE,Peat,17.90429067948987,3.5757862488374296e-05,119,M.EUR
+PBA,economic_importance,SE,Electricity by coal,16.432741982464837,3.281893366426593e-05,120,M.EUR
+PBA,economic_importance,SE,Electricity nec,16.314760477061306,3.258330486880499e-05,121,M.EUR
+PBA,economic_importance,SE,Lubricants,15.451519640784312,3.085926856541196e-05,122,M.EUR
+PBA,economic_importance,SE,Precious metals,14.940147222754444,2.9837972333598297e-05,123,M.EUR
+PBA,economic_importance,SE,Kerosene,13.925898128928658,2.781234728789199e-05,124,M.EUR
+PBA,economic_importance,SE,Kerosene Type Jet Fuel,13.709028405136397,2.7379222183967107e-05,125,M.EUR
+PBA,economic_importance,SE,White Spirit & SBP,12.300186826007224,2.4565529960341944e-05,126,M.EUR
+PBA,economic_importance,SE,Coke Oven Coke,11.953652695109483,2.387344335261252e-05,127,M.EUR
+PBA,economic_importance,SE,Other non-ferrous metal ores and concentrates,10.92702504358459,2.182309625720691e-05,128,M.EUR
+PBA,economic_importance,SE,"Sugar cane, sugar beet",10.181256127034086,2.0333671021463553e-05,129,M.EUR
+PBA,economic_importance,SE,Liquefied Petroleum Gases (LPG),9.457643856085292,1.8888496312077945e-05,130,M.EUR
+PBA,economic_importance,SE,Naphtha,9.213180289787125,1.8400261690355614e-05,131,M.EUR
+PBA,economic_importance,SE,Non-specified Petroleum Products,7.181966493780192,1.434358807494634e-05,132,M.EUR
+PBA,economic_importance,SE,Food waste for treatment: biogasification and land application,7.167565470587317,1.4314826823454117e-05,133,M.EUR
+PBA,economic_importance,SE,Plastic waste for treatment: landfill,7.028064439732377,1.4036219937116438e-05,134,M.EUR
+PBA,economic_importance,SE,Food waste for treatment: landfill,6.201363483260108,1.2385159883985912e-05,135,M.EUR
+PBA,economic_importance,SE,"Bricks, tiles and construction products, in baked clay",6.1282952069161505,1.2239230317462351e-05,136,M.EUR
+PBA,economic_importance,SE,Other non-ferrous metal products,5.442500395101888,1.0869583397900966e-05,137,M.EUR
+PBA,economic_importance,SE,Biogas,5.316027678114008,1.0616996232983884e-05,138,M.EUR
+PBA,economic_importance,SE,Blast Furnace Gas,4.544768343142297,9.076662369080194e-06,139,M.EUR
+PBA,economic_importance,SE,Uranium and thorium ores (12),3.9418803542339558,7.872594238753612e-06,140,M.EUR
+PBA,economic_importance,SE,Refinery Feedstocks,2.798353753133294,5.588780392902862e-06,141,M.EUR
+PBA,economic_importance,SE,Petroleum Coke,2.782348944196431,5.556816113090725e-06,142,M.EUR
+PBA,economic_importance,SE,Processed rice,2.506899910280815,5.0066983310669375e-06,143,M.EUR
+PBA,economic_importance,SE,Coke oven gas,2.2845342531835193,4.562596929287828e-06,144,M.EUR
+PBA,economic_importance,SE,Refinery Gas,2.221684781734503,4.437076024954244e-06,145,M.EUR
+PBA,economic_importance,SE,"Natural gas and services related to natural gas extraction, excluding surveying",1.6702634447913338,3.3357954049877257e-06,146,M.EUR
+PBA,economic_importance,SE,Paraffin Waxes,1.6010148720332764,3.197494425265844e-06,147,M.EUR
+PBA,economic_importance,SE,Paper waste for treatment: biogasification and land application,1.1460502125227352,2.28885391986541e-06,148,M.EUR
+PBA,economic_importance,SE,Charcoal,1.1080579333808018,2.2129769852525557e-06,149,M.EUR
+PBA,economic_importance,SE,Wood waste for treatment: landfill,1.0888049736376773,2.174525605116201e-06,150,M.EUR
+PBA,economic_importance,SE,Textiles waste for treatment: landfill,0.948161051323594,1.89363617341737e-06,151,M.EUR
+PBA,economic_importance,SE,Biodiesels,0.8351061381261866,1.6678466064294436e-06,152,M.EUR
+PBA,economic_importance,SE,Ethane,0.7974167230646276,1.592574542030806e-06,153,M.EUR
+PBA,economic_importance,SE,Other Liquid Biofuels,0.48625360689717195,9.711297655496113e-07,154,M.EUR
+PBA,economic_importance,SE,P- and other fertiliser,0.4776460273196752,9.539389897518048e-07,155,M.EUR
+PBA,economic_importance,SE,Biogasoline,0.3985030137181006,7.958771570916307e-07,156,M.EUR
+PBA,economic_importance,SE,Gas Works Gas,0.3519248288924006,7.028527330711133e-07,157,M.EUR
+PBA,economic_importance,SE,Electricity by solar photovoltaic,0.28998038405108806,5.791393182139853e-07,158,M.EUR
+PBA,economic_importance,SE,N-fertiliser,0.2867580406524513,5.727037595983754e-07,159,M.EUR
+PBA,economic_importance,SE,Coal Tar,0.15782850037635537,3.1520990773843073e-07,160,M.EUR
+PBA,economic_importance,SE,Oxygen Steel Furnace Gas,0.09157818436698198,1.828969481198588e-07,161,M.EUR
+PBA,economic_importance,SE,Aviation Gasoline,0.0415194699233504,8.29213244292377e-08,162,M.EUR
+PBA,economic_importance,SE,"Wool, silk-worm cocoons",0.03860965037529446,7.710992820427805e-08,163,M.EUR
+PBA,economic_importance,SE,Additives/Blending Components,0.010772859425978661,2.1515201738877678e-08,164,M.EUR
+PBA,economic_importance,SE,Paper and wood waste for treatment: composting and land application,0.00158122130498969,3.1579633619487273e-09,165,M.EUR
+PBA,economic_importance,SE,Electricity by Geothermal,8.452757748222011e-05,1.6881570715041297e-10,166,M.EUR
+PBA,economic_importance,SE,Electricity by solar thermal,5.1540123053029136e-06,1.0293424440853727e-11,167,M.EUR
+PBA,economic_importance,SE,Plant-based fibers,0.0,0.0,168,M.EUR
+PBA,economic_importance,SE,Gasoline Type Jet Fuel,0.0,0.0,169,M.EUR
+PBA,economic_importance,SE,Gas Coke,0.0,0.0,170,M.EUR
+PBA,economic_importance,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,171,M.EUR
+PBA,economic_importance,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,172,M.EUR
+PBA,economic_importance,SE,Tobacco products (16),0.0,0.0,173,M.EUR
+PBA,economic_importance,SE,Manure (biogas treatment),0.0,0.0,174,M.EUR
+PBA,economic_importance,SE,Manure (conventional treatment),0.0,0.0,175,M.EUR
+PBA,economic_importance,SE,Coking Coal,0.0,0.0,176,M.EUR
+PBA,economic_importance,SE,Patent Fuel,0.0,0.0,177,M.EUR
+PBA,economic_importance,SE,Sub-Bituminous Coal,0.0,0.0,178,M.EUR
+PBA,economic_importance,SE,Other Hydrocarbons,0.0,0.0,179,M.EUR
+PBA,economic_importance,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,180,M.EUR
+PBA,economic_importance,SE,Lignite/Brown Coal,0.0,0.0,181,M.EUR
+PBA,economic_importance,SE,Natural Gas Liquids,0.0,0.0,182,M.EUR
+PBA,economic_importance,SE,BKB/Peat Briquettes,0.0,0.0,183,M.EUR
+PBA,economic_importance,SE,Aluminium ores and concentrates,0.0,0.0,184,M.EUR
+PBA,economic_importance,SE,Anthracite,0.0,0.0,185,M.EUR
+PBA,economic_importance,SE,Other Bituminous Coal,0.0,0.0,186,M.EUR
+PBA,economic_importance,SE,Paddy rice,0.0,0.0,187,M.EUR
+PBA,economic_importance,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,188,M.EUR
+PBA,economic_importance,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,189,M.EUR
+PBA,economic_importance,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,190,M.EUR
+PBA,economic_importance,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,191,M.EUR
+PBA,economic_importance,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,192,M.EUR
+PBA,economic_importance,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,193,M.EUR
+PBA,economic_importance,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,194,M.EUR
+PBA,economic_importance,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,195,M.EUR
+PBA,economic_importance,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,196,M.EUR
+PBA,economic_importance,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,197,M.EUR
+PBA,economic_importance,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,198,M.EUR
+PBA,economic_importance,SE,"Electricity by tide, wave, ocean",0.0,0.0,199,M.EUR
+PBA,economic_importance,SE,Extra-territorial organizations and bodies,0.0,0.0,200,M.EUR
+CBA,materials,SE,Construction work (45),5722211413.118128,0.11692577967097957,1,
+CBA,materials,SE,Machinery and equipment n.e.c. (29),5302358518.818183,0.10834664418140359,2,
+CBA,materials,SE,"Motor vehicles, trailers and semi-trailers (34)",3980706938.7935724,0.08134045194364584,3,
+CBA,materials,SE,Real estate services (70),3205186815.7286606,0.06549372967259875,4,
+CBA,materials,SE,"Fabricated metal products, except machinery and equipment (28)",3035187242.3083873,0.06202001448963107,5,
+CBA,materials,SE,Supporting and auxiliary transport services; travel agency services (63),2817159165.0581937,0.057564900708934205,6,
+CBA,materials,SE,Food products nec,1991406624.5220385,0.04069174579610839,7,
+CBA,materials,SE,Electrical machinery and apparatus n.e.c. (31),1502652650.7208176,0.0307047083855391,8,
+CBA,materials,SE,Products of meat cattle,1427606507.0405166,0.02917124025099879,9,
+CBA,materials,SE,Hotel and restaurant services (55),1425701428.6679156,0.029132312508213888,10,
+CBA,materials,SE,Dairy products,1238579591.4009194,0.025308726636193955,11,
+CBA,materials,SE,Other transport equipment (35),930820761.5445546,0.01902008426812475,12,
+CBA,materials,SE,Public administration and defence services; compulsory social security services (75),928653673.3807985,0.0189758027037313,13,
+CBA,materials,SE,Furniture; other manufactured goods n.e.c. (36),878931387.695967,0.017959793926531287,14,
+CBA,materials,SE,Health and social work services (85),865774013.7110989,0.01769094048849219,15,
+CBA,materials,SE,Computer and related services (72),857166494.3402051,0.017515057278171167,16,
+CBA,materials,SE,Air transport services (62),520410532.8146802,0.010633897090703353,17,
+CBA,materials,SE,Textiles (17),496056736.49395955,0.01013625965350199,18,
+CBA,materials,SE,Education services (80),495092141.41911787,0.010116549436061563,19,
+CBA,materials,SE,Post and telecommunication services (64),493847091.0009262,0.010091108486686116,20,
+CBA,materials,SE,Research and development services (73),482716453.32174015,0.009863668709489066,21,
+CBA,materials,SE,Office machinery and computers (30),474540559.7147271,0.009696605197589555,22,
+CBA,materials,SE,Steam and hot water supply services,445357928.81221575,0.009100296948071874,23,
+CBA,materials,SE,"Radio, television and communication equipment and apparatus (32)",437499144.58594054,0.008939713144611438,24,
+CBA,materials,SE,Rubber and plastic products (25),408574588.09591776,0.00834867830247332,25,
+CBA,materials,SE,Motor Gasoline,398663967.9532137,0.008146167961007776,26,
+CBA,materials,SE,"Medical, precision and optical instruments, watches and clocks (33)",393069634.88151205,0.008031855205165115,27,
+CBA,materials,SE,Meat products nec,392838712.57549703,0.008027136614968967,28,
+CBA,materials,SE,"Plastics, basic",386765005.8411604,0.00790302849589858,29,
+CBA,materials,SE,"Recreational, cultural and sporting services (92)",374229461.718023,0.007646881324048615,30,
+CBA,materials,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",367812947.6361777,0.007515768392766554,31,
+CBA,materials,SE,Products of meat pigs,351349598.66464216,0.007179361752830254,32,
+CBA,materials,SE,Poultry,345205327.6539463,0.0070538117466231376,33,
+CBA,materials,SE,"Vegetables, fruit, nuts",307868657.8465683,0.006290886556977498,34,
+CBA,materials,SE,Wearing apparel; furs (18),301604146.1760805,0.006162879592807925,35,
+CBA,materials,SE,Other land transportation services,292681517.53501815,0.005980557543647157,36,
+CBA,materials,SE,Wheat,272245675.18778634,0.005562978285005044,37,
+CBA,materials,SE,Sea and coastal water transportation services,265357702.3791545,0.005422231721682436,38,
+CBA,materials,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",246126109.2816009,0.005029259694802858,39,
+CBA,materials,SE,Membership organisation services n.e.c. (91),244347785.04005745,0.004992922004102792,40,
+CBA,materials,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),216524411.30900082,0.00442438836706821,41,
+CBA,materials,SE,Beverages,178491782.7737357,0.003647242186445118,42,
+CBA,materials,SE,Other business services (74),172604346.6745072,0.0035269402600627358,43,
+CBA,materials,SE,Other services (93),170340789.54155958,0.0034806874805878357,44,
+CBA,materials,SE,Oil seeds,163103164.93395826,0.0033327962477910896,45,
+CBA,materials,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),152709263.2635588,0.003120410691072781,46,
+CBA,materials,SE,Railway transportation services,139992093.21000168,0.0028605522348976484,47,
+CBA,materials,SE,Leather and leather products (19),125358802.0039281,0.0025615403914169676,48,
+CBA,materials,SE,Cattle,125328206.52006243,0.002560915213396246,49,
+CBA,materials,SE,Nuclear fuel,122121519.08316487,0.002495390820525891,50,
+CBA,materials,SE,"Insurance and pension funding services, except compulsory social security services (66)",121763748.37496461,0.0024880802519397925,51,
+CBA,materials,SE,Distribution and trade services of electricity,119808146.41733249,0.0024481201268912794,52,
+CBA,materials,SE,"Products of forestry, logging and related services (02)",113527231.66486403,0.0023197779875575733,53,
+CBA,materials,SE,Printed matter and recorded media (22),113522622.17507488,0.0023196837987643653,54,
+CBA,materials,SE,Crops nec,109552762.92627029,0.0022385650049381884,55,
+CBA,materials,SE,Electricity by hydro,104715049.61568621,0.002139712767607711,56,
+CBA,materials,SE,Meat animals nec,102874735.56912243,0.0021021083976886573,57,
+CBA,materials,SE,Ceramic goods,101831444.87602492,0.0020807901399545496,58,
+CBA,materials,SE,"Financial intermediation services, except insurance and pension funding services (65)",96011615.20599934,0.0019618696610362025,59,
+CBA,materials,SE,Basic iron and steel and of ferro-alloys and first products thereof,93247855.37393704,0.0019053959046757875,60,
+CBA,materials,SE,Paper and paper products,89692125.69317389,0.0018327392977791326,61,
+CBA,materials,SE,Products of meat poultry,88903188.56044985,0.0018166184167603592,62,
+CBA,materials,SE,Pigs,82083262.09701176,0.0016772622899999684,63,
+CBA,materials,SE,"Lead, zinc and tin ores and concentrates",80969925.32096335,0.0016545127337222322,64,
+CBA,materials,SE,Other non-metallic mineral products,67895546.35392013,0.001387355188488797,65,
+CBA,materials,SE,Electricity by nuclear,58370044.18510004,0.001192714220611663,66,
+CBA,materials,SE,products of Vegetable oils and fats,55387103.810814604,0.0011317618013816102,67,
+CBA,materials,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",51569893.08917972,0.0010537621771852072,68,
+CBA,materials,SE,Private households with employed persons (95),39808087.524005644,0.0008134253236929236,69,
+CBA,materials,SE,Transmission services of electricity,36541470.37632232,0.0007466763468893328,70,
+CBA,materials,SE,Copper products,33380685.68694309,0.000682089915613741,71,
+CBA,materials,SE,Processed rice,32880546.821041938,0.0006718702430750457,72,
+CBA,materials,SE,Inland water transportation services,31119129.54092817,0.000635878023645493,73,
+CBA,materials,SE,Cereal grains nec,29579300.578200303,0.0006044136667686817,74,
+CBA,materials,SE,Fish and other fishing products; services incidental of fishing (05),25234684.239260856,0.0005156372102335053,75,
+CBA,materials,SE,Electricity by biomass and waste,22547081.562799793,0.00046071962405858606,76,
+CBA,materials,SE,Tobacco products (16),21126476.10386519,0.0004316914409142194,77,
+CBA,materials,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",19240310.555191934,0.00039315015653217577,78,
+CBA,materials,SE,Bitumen,18031449.7566317,0.0003684486939016093,79,
+CBA,materials,SE,Retail trade services of motor fuel,11830519.423804758,0.0002417409298037907,80,
+CBA,materials,SE,Animal products nec,11638559.316278942,0.00023781848031394383,81,
+CBA,materials,SE,Copper ores and concentrates,6207405.633261791,0.0001268400782500383,82,
+CBA,materials,SE,Pulp,5936138.78042006,0.00012129710089783864,83,
+CBA,materials,SE,Gas/Diesel Oil,5826379.106022146,0.00011905430793217019,84,
+CBA,materials,SE,Kerosene Type Jet Fuel,5617358.211481048,0.00011478324395055723,85,
+CBA,materials,SE,Electricity nec,5021212.830902908,0.00010260180597335243,86,
+CBA,materials,SE,Secondary raw materials,4919026.871478775,0.00010051377180011257,87,
+CBA,materials,SE,Liquefied Petroleum Gases (LPG),4768225.136470131,9.743233891191142e-05,88,
+CBA,materials,SE,Aluminium and aluminium products,4664061.3095130855,9.530388964620546e-05,89,
+CBA,materials,SE,Heavy Fuel Oil,3914709.479581678,7.999188164144349e-05,90,
+CBA,materials,SE,Services auxiliary to financial intermediation (67),3707053.855268498,7.574871514112506e-05,91,
+CBA,materials,SE,Other non-ferrous metal products,3590129.726643914,7.335952608207742e-05,92,
+CBA,materials,SE,"Cement, lime and plaster",3144652.425981398,6.425678992900954e-05,93,
+CBA,materials,SE,Sand and clay,2781683.3229000876,5.6839999057395815e-05,94,
+CBA,materials,SE,Stone,2435969.7347895885,4.9775801684330754e-05,95,
+CBA,materials,SE,Electricity by petroleum and other oil derivatives,2227166.4464503177,4.550918419603531e-05,96,
+CBA,materials,SE,Iron ores,2051488.8686708496,4.1919446545748074e-05,97,
+CBA,materials,SE,Sugar,1803172.0031943596,3.6845421661814105e-05,98,
+CBA,materials,SE,Other Bituminous Coal,1734908.9353188898,3.545055665983702e-05,99,
+CBA,materials,SE,N-fertiliser,1698035.215634573,3.469709124023127e-05,100,
+CBA,materials,SE,Foundry work services,1684799.052309894,3.442662784682316e-05,101,
+CBA,materials,SE,Raw milk,1465300.9891444207,2.9941476859032655e-05,102,
+CBA,materials,SE,Biogas,1303288.3272148557,2.6630963589764503e-05,103,
+CBA,materials,SE,"Lead, zinc and tin and products thereof",1228184.6420474483,2.50963196714655e-05,104,
+CBA,materials,SE,Precious metal ores and concentrates,1077302.7667360979,2.2013249222765357e-05,105,
+CBA,materials,SE,P- and other fertiliser,887023.6458628414,1.812514845944692e-05,106,
+CBA,materials,SE,Precious metals,526998.1779966373,1.076850685841139e-05,107,
+CBA,materials,SE,Biodiesels,424791.5582207928,8.68005051836262e-06,108,
+CBA,materials,SE,Glass and glass products,369164.84514071385,7.5433926202445464e-06,109,
+CBA,materials,SE,Fish products,353369.4273742064,7.220634266132753e-06,110,
+CBA,materials,SE,Naphtha,314453.45535131847,6.425438136189229e-06,111,
+CBA,materials,SE,Other non-ferrous metal ores and concentrates,274435.06779572944,5.607715611050489e-06,112,
+CBA,materials,SE,Electricity by gas,233310.5504524465,4.767390794855723e-06,113,
+CBA,materials,SE,Other Liquid Biofuels,229953.34342401716,4.698790734323865e-06,114,
+CBA,materials,SE,"Bricks, tiles and construction products, in baked clay",195271.8669590724,3.990120889216784e-06,115,
+CBA,materials,SE,Biogasoline,143755.15155322247,2.9374453272639637e-06,116,
+CBA,materials,SE,Refinery Feedstocks,90097.98550275863,1.8410325031933925e-06,117,
+CBA,materials,SE,Gas Works Gas,53147.541691194834,1.0859993280906348e-06,118,
+CBA,materials,SE,Electricity by wind,50943.74411578666,1.0409676556936863e-06,119,
+CBA,materials,SE,Coke Oven Coke,50126.1442614918,1.0242610900811072e-06,120,
+CBA,materials,SE,Electricity by solar photovoltaic,48067.05626739406,9.821863655141173e-07,121,
+CBA,materials,SE,Electricity by coal,37407.543355995644,7.643733963496376e-07,122,
+CBA,materials,SE,Aviation Gasoline,32142.099066038398,6.567810453389867e-07,123,
+CBA,materials,SE,Kerosene,25085.61337879512,5.125911454645208e-07,124,
+CBA,materials,SE,Paddy rice,22073.18833319111,4.5103624619076276e-07,125,
+CBA,materials,SE,Coking Coal,16074.902864802494,3.2846926037954365e-07,126,
+CBA,materials,SE,Nickel ores and concentrates,8386.579262543764,1.7136859305781038e-07,127,
+CBA,materials,SE,Peat,7709.994153626878,1.5754347621705159e-07,128,
+CBA,materials,SE,Additives/Blending Components,2290.577897115587,4.680491285298547e-08,129,
+CBA,materials,SE,Charcoal,1935.815088653101,3.9555806697514206e-08,130,
+CBA,materials,SE,Lubricants,1781.7352500372594,3.640739012198632e-08,131,
+CBA,materials,SE,Paraffin Waxes,1655.093373980743,3.381963181879654e-08,132,
+CBA,materials,SE,Aluminium ores and concentrates,933.3322503107089,1.907140320077451e-08,133,
+CBA,materials,SE,Plant-based fibers,701.9774773228927,1.4343976117219384e-08,134,
+CBA,materials,SE,Coal Tar,288.94140191801193,5.904133255377151e-09,135,
+CBA,materials,SE,"Sugar cane, sugar beet",75.99484877485183,1.5528536613672128e-09,136,
+CBA,materials,SE,"Wool, silk-worm cocoons",39.693173708430365,8.110772127073169e-10,137,
+CBA,materials,SE,BKB/Peat Briquettes,0.3298243732457329,6.7395224000007364e-12,138,
+CBA,materials,SE,Anthracite,0.02758944270834291,5.637535677142976e-13,139,
+CBA,materials,SE,Natural Gas Liquids,0.026212347989307366,5.356144686703708e-13,140,
+CBA,materials,SE,Electricity by solar thermal,0.025324366342423153,5.17469744734196e-13,141,
+CBA,materials,SE,Other Hydrocarbons,0.020490009182309556,4.186860858748941e-13,142,
+CBA,materials,SE,Electricity by Geothermal,0.020090378328125796,4.105201608797263e-13,143,
+CBA,materials,SE,Lignite/Brown Coal,0.012046464999247391,2.461534904297829e-13,144,
+CBA,materials,SE,Patent Fuel,0.007813335658949976,1.5965512243385775e-13,145,
+CBA,materials,SE,Manure (biogas treatment),0.0,0.0,146,
+CBA,materials,SE,Manure (conventional treatment),0.0,0.0,147,
+CBA,materials,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,148,
+CBA,materials,SE,Sub-Bituminous Coal,0.0,0.0,149,
+CBA,materials,SE,Uranium and thorium ores (12),0.0,0.0,150,
+CBA,materials,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,151,
+CBA,materials,SE,"Natural gas and services related to natural gas extraction, excluding surveying",0.0,0.0,152,
+CBA,materials,SE,Gasoline Type Jet Fuel,0.0,0.0,153,
+CBA,materials,SE,Gas Coke,0.0,0.0,154,
+CBA,materials,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,155,
+CBA,materials,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,156,
+CBA,materials,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,157,
+CBA,materials,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,158,
+CBA,materials,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,159,
+CBA,materials,SE,Refinery Gas,0.0,0.0,160,
+CBA,materials,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,161,
+CBA,materials,SE,Non-specified Petroleum Products,0.0,0.0,162,
+CBA,materials,SE,Petroleum Coke,0.0,0.0,163,
+CBA,materials,SE,White Spirit & SBP,0.0,0.0,164,
+CBA,materials,SE,Ethane,0.0,0.0,165,
+CBA,materials,SE,Chemicals nec,0.0,0.0,166,
+CBA,materials,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,167,
+CBA,materials,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,168,
+CBA,materials,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,169,
+CBA,materials,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,170,
+CBA,materials,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,171,
+CBA,materials,SE,"Electricity by tide, wave, ocean",0.0,0.0,172,
+CBA,materials,SE,Oxygen Steel Furnace Gas,0.0,0.0,173,
+CBA,materials,SE,Distribution services of gaseous fuels through mains,0.0,0.0,174,
+CBA,materials,SE,"Collected and purified water, distribution services of water (41)",0.0,0.0,175,
+CBA,materials,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,176,
+CBA,materials,SE,Transportation services via pipelines,0.0,0.0,177,
+CBA,materials,SE,Blast Furnace Gas,0.0,0.0,178,
+CBA,materials,SE,Coke oven gas,0.0,0.0,179,
+CBA,materials,SE,Textiles waste for treatment: incineration,0.0,0.0,180,
+CBA,materials,SE,Paper waste for treatment: incineration,0.0,0.0,181,
+CBA,materials,SE,Plastic waste for treatment: incineration,0.0,0.0,182,
+CBA,materials,SE,Intert/metal waste for treatment: incineration,0.0,0.0,183,
+CBA,materials,SE,Food waste for treatment: incineration,0.0,0.0,184,
+CBA,materials,SE,Paper waste for treatment: biogasification and land application,0.0,0.0,185,
+CBA,materials,SE,Food waste for treatment: biogasification and land application,0.0,0.0,186,
+CBA,materials,SE,Oil/hazardous waste for treatment: incineration,0.0,0.0,187,
+CBA,materials,SE,Wood waste for treatment: incineration,0.0,0.0,188,
+CBA,materials,SE,Sewage sludge for treatment: biogasification and land application,0.0,0.0,189,
+CBA,materials,SE,Food waste for treatment: composting and land application,0.0,0.0,190,
+CBA,materials,SE,Paper and wood waste for treatment: composting and land application,0.0,0.0,191,
+CBA,materials,SE,Food waste for treatment: waste water treatment,0.0,0.0,192,
+CBA,materials,SE,Plastic waste for treatment: landfill,0.0,0.0,193,
+CBA,materials,SE,Paper for treatment: landfill,0.0,0.0,194,
+CBA,materials,SE,Food waste for treatment: landfill,0.0,0.0,195,
+CBA,materials,SE,Other waste for treatment: waste water treatment,0.0,0.0,196,
+CBA,materials,SE,Wood waste for treatment: landfill,0.0,0.0,197,
+CBA,materials,SE,Textiles waste for treatment: landfill,0.0,0.0,198,
+CBA,materials,SE,Inert/metal/hazardous waste for treatment: landfill,0.0,0.0,199,
+CBA,materials,SE,Extra-territorial organizations and bodies,0.0,0.0,200,
+PBA,materials,SE,Basic iron and steel and of ferro-alloys and first products thereof,6791297846.320047,0.36040598110411015,1,
+PBA,materials,SE,Sea and coastal water transportation services,3420363953.5450087,0.18151458738899032,2,
+PBA,materials,SE,Cattle,1028188951.7674385,0.05456474687278603,3,
+PBA,materials,SE,Raw milk,842125125.5121837,0.04469056415146033,4,
+PBA,materials,SE,Other business services (74),705363727.8334492,0.03743280181752266,5,
+PBA,materials,SE,Poultry,436701521.1509437,0.023175222724968084,6,
+PBA,materials,SE,Steam and hot water supply services,403331213.0842084,0.021404300746475414,7,
+PBA,materials,SE,Pigs,302859906.5609833,0.016072409756016814,8,
+PBA,materials,SE,Meat animals nec,302200836.6336964,0.01603743371032788,9,
+PBA,materials,SE,Cereal grains nec,287193339.4022586,0.015241003942997858,10,
+PBA,materials,SE,Other transport equipment (35),269888115.7984466,0.014322636609935385,11,
+PBA,materials,SE,Wheat,248875519.66333658,0.01320752349061868,12,
+PBA,materials,SE,Hotel and restaurant services (55),202901545.77148053,0.010767740176634387,13,
+PBA,materials,SE,Paper and paper products,198120477.01342398,0.010514014627340848,14,
+PBA,materials,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),192375176.2009015,0.010209118446532432,15,
+PBA,materials,SE,Coke Oven Coke,148646143.55392918,0.007888471455264688,16,
+PBA,materials,SE,Pulp,141549770.58085245,0.0075118755053420585,17,
+PBA,materials,SE,"Cement, lime and plaster",140189082.32668328,0.007439665421744207,18,
+PBA,materials,SE,Electricity by hydro,130660177.35619473,0.006933977934249064,19,
+PBA,materials,SE,Secondary raw materials,130105690.92288905,0.0069045520083764805,20,
+PBA,materials,SE,"Fabricated metal products, except machinery and equipment (28)",129671737.99148355,0.006881522649992361,21,
+PBA,materials,SE,Air transport services (62),122475482.37654813,0.00649962604880263,22,
+PBA,materials,SE,Inland water transportation services,120794241.55125092,0.006410404627091336,23,
+PBA,materials,SE,Supporting and auxiliary transport services; travel agency services (63),117743458.12713328,0.006248503232396791,24,
+PBA,materials,SE,Computer and related services (72),113601124.67044297,0.00602867459473399,25,
+PBA,materials,SE,Oil seeds,109006348.09886453,0.005784835346963223,26,
+PBA,materials,SE,"Products of forestry, logging and related services (02)",90080191.45416926,0.0047804470535300955,27,
+PBA,materials,SE,Copper products,83223440.63580157,0.004416567562186732,28,
+PBA,materials,SE,Construction work (45),76589845.8624941,0.004064530692854539,29,
+PBA,materials,SE,Other services (93),76409374.51125865,0.004054953296033629,30,
+PBA,materials,SE,Furniture; other manufactured goods n.e.c. (36),69089952.28912172,0.0036665203916346704,31,
+PBA,materials,SE,Animal products nec,67249334.25354086,0.0035688410137067984,32,
+PBA,materials,SE,"Medical, precision and optical instruments, watches and clocks (33)",61643415.9017335,0.0032713416918846157,33,
+PBA,materials,SE,"Motor vehicles, trailers and semi-trailers (34)",61616056.61006493,0.003269889767292401,34,
+PBA,materials,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",60252772.32900094,0.0031975419156800742,35,
+PBA,materials,SE,Electricity by wind,59521293.65214271,0.0031587232250327953,36,
+PBA,materials,SE,Electricity by nuclear,59071679.15164727,0.003134862726077136,37,
+PBA,materials,SE,Electricity by biomass and waste,50763352.03834358,0.0026939498324942642,38,
+PBA,materials,SE,"Plastics, basic",50018849.61515853,0.0026544399873462132,39,
+PBA,materials,SE,Machinery and equipment n.e.c. (29),48473143.90301175,0.002572411250528795,40,
+PBA,materials,SE,Research and development services (73),44118268.32442393,0.0023413032589484025,41,
+PBA,materials,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",43865978.04517123,0.0023279145182872386,42,
+PBA,materials,SE,"Collected and purified water, distribution services of water (41)",42419732.580436036,0.0022511640167733496,43,
+PBA,materials,SE,Electricity nec,41034829.78362773,0.002177668896619257,44,
+PBA,materials,SE,Real estate services (70),37723990.66836399,0.0020019666602255066,45,
+PBA,materials,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),35310681.6985322,0.0018738952655287075,46,
+PBA,materials,SE,Crops nec,34805833.862961575,0.001847103600135073,47,
+PBA,materials,SE,Gas/Diesel Oil,30939027.15016482,0.001641896834270633,48,
+PBA,materials,SE,"Sugar cane, sugar beet",26464656.068038113,0.0014044473605221745,49,
+PBA,materials,SE,"Vegetables, fruit, nuts",26401681.52874839,0.001401105377718462,50,
+PBA,materials,SE,Motor Gasoline,25953313.032859564,0.001377311002723622,51,
+PBA,materials,SE,Electricity by gas,25448693.64034437,0.001350531460527259,52,
+PBA,materials,SE,Other waste for treatment: waste water treatment,23661913.830735687,0.0012557092122808544,53,
+PBA,materials,SE,Copper ores and concentrates,22516862.827444,0.001194942737360423,54,
+PBA,materials,SE,"Lead, zinc and tin and products thereof",21345053.355482932,0.0011327562227992833,55,
+PBA,materials,SE,Glass and glass products,19738663.247874744,0.001047507038347422,56,
+PBA,materials,SE,Food products nec,19107929.87351336,0.0010140347793262693,57,
+PBA,materials,SE,Other land transportation services,16283035.244672995,0.0008641210303990864,58,
+PBA,materials,SE,Food waste for treatment: waste water treatment,15928430.557328619,0.0008453025875714438,59,
+PBA,materials,SE,Intert/metal waste for treatment: incineration,15745292.277451478,0.0008355836600659147,60,
+PBA,materials,SE,Aluminium and aluminium products,14812645.534762925,0.0007860892229305507,61,
+PBA,materials,SE,Chemicals nec,14414796.135817084,0.0007649758354450567,62,
+PBA,materials,SE,Heavy Fuel Oil,13972276.83405513,0.0007414918701238415,63,
+PBA,materials,SE,Distribution and trade services of electricity,13423129.651721936,0.0007123492918570681,64,
+PBA,materials,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",12484829.48057426,0.0006625548340958208,65,
+PBA,materials,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",12205847.147974284,0.0006477495783749442,66,
+PBA,materials,SE,Stone,10904133.959222544,0.0005786692303288865,67,
+PBA,materials,SE,Other non-metallic mineral products,10865208.421088472,0.0005766034989946589,68,
+PBA,materials,SE,Sand and clay,10577192.396285027,0.0005613188361302201,69,
+PBA,materials,SE,Electrical machinery and apparatus n.e.c. (31),10531875.670404086,0.0005589139321750215,70,
+PBA,materials,SE,Rubber and plastic products (25),10389795.225541212,0.0005513738944259395,71,
+PBA,materials,SE,Foundry work services,9801858.044378152,0.0005201727777322465,72,
+PBA,materials,SE,Electricity by coal,8485173.06462999,0.0004502978948056616,73,
+PBA,materials,SE,Nuclear fuel,8105865.546060711,0.0004301685025357876,74,
+PBA,materials,SE,Ceramic goods,7506542.367369038,0.00039836314469364134,75,
+PBA,materials,SE,"Insurance and pension funding services, except compulsory social security services (66)",7272451.973933696,0.00038594025000955275,76,
+PBA,materials,SE,Iron ores,6979070.243880173,0.0003703708356427163,77,
+PBA,materials,SE,Retail trade services of motor fuel,6719106.241297414,0.0003565748597449194,78,
+PBA,materials,SE,Post and telecommunication services (64),6654591.535194301,0.00035315114214706225,79,
+PBA,materials,SE,Dairy products,6571183.2960987305,0.0003487247675536266,80,
+PBA,materials,SE,Inert/metal/hazardous waste for treatment: landfill,6033264.477688029,0.0003201780650100586,81,
+PBA,materials,SE,Printed matter and recorded media (22),5927412.381662055,0.0003145606220141164,82,
+PBA,materials,SE,Textiles (17),5591421.151751657,0.00029672997291015324,83,
+PBA,materials,SE,Food waste for treatment: incineration,5370837.169611946,0.0002850238471742614,84,
+PBA,materials,SE,Health and social work services (85),5290938.306000688,0.0002807837109027352,85,
+PBA,materials,SE,Beverages,5147474.192312721,0.00027317024351888896,86,
+PBA,materials,SE,Transmission services of electricity,4932907.476184862,0.0002617834468287318,87,
+PBA,materials,SE,Fish products,4707093.463240062,0.00024979976966950867,88,
+PBA,materials,SE,Public administration and defence services; compulsory social security services (75),4398764.647689889,0.0002334371315132037,89,
+PBA,materials,SE,Railway transportation services,4118767.781683328,0.00021857803572875782,90,
+PBA,materials,SE,Fish and other fishing products; services incidental of fishing (05),3954347.569181143,0.0002098524534702347,91,
+PBA,materials,SE,"Radio, television and communication equipment and apparatus (32)",3926440.5228121784,0.00020837146019708964,92,
+PBA,materials,SE,Transportation services via pipelines,3259353.4664913593,0.0001729699551452337,93,
+PBA,materials,SE,"Lead, zinc and tin ores and concentrates",2994108.0980509403,0.00015889370353481576,94,
+PBA,materials,SE,Membership organisation services n.e.c. (91),2830030.0898825484,0.00015018628164732185,95,
+PBA,materials,SE,"Bricks, tiles and construction products, in baked clay",2696924.6021892335,0.0001431225340444326,96,
+PBA,materials,SE,Paper waste for treatment: incineration,2657842.3703337424,0.00014104848716350407,97,
+PBA,materials,SE,Biodiesels,2481679.1083464744,0.0001316997154400809,98,
+PBA,materials,SE,Meat products nec,2375098.0544913663,0.00012604358753183807,99,
+PBA,materials,SE,Food waste for treatment: composting and land application,2349710.3916136282,0.00012469629490023164,100,
+PBA,materials,SE,Distribution services of gaseous fuels through mains,2291107.7968129837,0.00012158632591458076,101,
+PBA,materials,SE,Wood waste for treatment: incineration,2277821.081473519,0.00012088121596565317,102,
+PBA,materials,SE,Oil/hazardous waste for treatment: incineration,2237514.896080775,0.00011874221534754489,103,
+PBA,materials,SE,Education services (80),1871202.5526200512,9.930246133836896e-05,104,
+PBA,materials,SE,Sugar,1798136.9985848698,9.542496055974622e-05,105,
+PBA,materials,SE,Plastic waste for treatment: incineration,1766621.0191996582,9.375244556661588e-05,106,
+PBA,materials,SE,Sewage sludge for treatment: biogasification and land application,1516958.3277926673,8.05031478215043e-05,107,
+PBA,materials,SE,"Financial intermediation services, except insurance and pension funding services (65)",1514607.0306040517,8.03783673172021e-05,108,
+PBA,materials,SE,Lubricants,1448783.0567041351,7.688516845736625e-05,109,
+PBA,materials,SE,Kerosene Type Jet Fuel,1427859.3988792384,7.577477518684363e-05,110,
+PBA,materials,SE,Other Liquid Biofuels,1420595.4996419824,7.53892888202483e-05,111,
+PBA,materials,SE,"Recreational, cultural and sporting services (92)",1377484.110709522,7.310141943554983e-05,112,
+PBA,materials,SE,Food waste for treatment: biogasification and land application,1346065.6777231442,7.143408111208858e-05,113,
+PBA,materials,SE,Plastic waste for treatment: landfill,1282487.1665426067,6.806004624899145e-05,114,
+PBA,materials,SE,Other non-ferrous metal products,1257805.8470411203,6.67502384079619e-05,115,
+PBA,materials,SE,Precious metal ores and concentrates,1248406.3481324986,6.625141834400542e-05,116,
+PBA,materials,SE,Bitumen,1106161.1740981406,5.870263861658456e-05,117,
+PBA,materials,SE,Biogasoline,1106025.2957442757,5.8695427716320186e-05,118,
+PBA,materials,SE,Services auxiliary to financial intermediation (67),1093915.9072234626,5.8052797080884375e-05,119,
+PBA,materials,SE,Textiles waste for treatment: incineration,912750.746459678,4.843858062558114e-05,120,
+PBA,materials,SE,Wearing apparel; furs (18),854751.6665571799,4.5360639447265394e-05,121,
+PBA,materials,SE,Liquefied Petroleum Gases (LPG),836115.638311391,4.437164791784118e-05,122,
+PBA,materials,SE,Electricity by petroleum and other oil derivatives,797933.3167282192,4.234535818907124e-05,123,
+PBA,materials,SE,Paper for treatment: landfill,759047.280659444,4.028172318177867e-05,124,
+PBA,materials,SE,Non-specified Petroleum Products,747143.4587125954,3.965000171634959e-05,125,
+PBA,materials,SE,Food waste for treatment: landfill,620352.2246722163,3.292134393490877e-05,126,
+PBA,materials,SE,Naphtha,615719.2540661483,3.267547777581943e-05,127,
+PBA,materials,SE,P- and other fertiliser,515114.4354172223,2.7336501457969604e-05,128,
+PBA,materials,SE,Office machinery and computers (30),508377.44167968596,2.697897733038555e-05,129,
+PBA,materials,SE,Petroleum Coke,386529.2405295748,2.0512640339279704e-05,130,
+PBA,materials,SE,Paper waste for treatment: biogasification and land application,360868.5626625845,1.91508591316626e-05,131,
+PBA,materials,SE,Peat,346579.24235575285,1.839254214704012e-05,132,
+PBA,materials,SE,Products of meat poultry,317768.6224129956,1.6863597314748086e-05,133,
+PBA,materials,SE,Biogas,261172.83984732357,1.386012743262702e-05,134,
+PBA,materials,SE,Products of meat pigs,257466.28561968327,1.3663425072760395e-05,135,
+PBA,materials,SE,Refinery Feedstocks,252793.46176813598,1.341544395002755e-05,136,
+PBA,materials,SE,Blast Furnace Gas,251048.32990885992,1.3322831908245398e-05,137,
+PBA,materials,SE,Paraffin Waxes,245021.29926083615,1.3002984665052764e-05,138,
+PBA,materials,SE,Products of meat cattle,238978.61873861193,1.268230690192226e-05,139,
+PBA,materials,SE,Coke oven gas,217619.67920794414,1.154881375656347e-05,140,
+PBA,materials,SE,Precious metals,172046.28025008988,9.130288470920969e-06,141,
+PBA,materials,SE,Refinery Gas,128322.39332402084,6.8099145568518116e-06,142,
+PBA,materials,SE,Wood waste for treatment: landfill,104243.47563381193,5.532075452980488e-06,143,
+PBA,materials,SE,Uranium and thorium ores (12),101340.59672903817,5.378023172639358e-06,144,
+PBA,materials,SE,Textiles waste for treatment: landfill,80400.8671797585,4.266776995098757e-06,145,
+PBA,materials,SE,Leather and leather products (19),72522.88972282206,3.848702238442084e-06,146,
+PBA,materials,SE,Processed rice,62977.87700360903,3.342159932160637e-06,147,
+PBA,materials,SE,N-fertiliser,55641.47443726592,2.952825901386191e-06,148,
+PBA,materials,SE,Electricity by solar photovoltaic,55330.959933028935,2.936347271368921e-06,149,
+PBA,materials,SE,White Spirit & SBP,39698.47047343278,2.1067499207184427e-06,150,
+PBA,materials,SE,products of Vegetable oils and fats,39347.54619560024,2.08812679278215e-06,151,
+PBA,materials,SE,"Natural gas and services related to natural gas extraction, excluding surveying",39156.946256937794,2.0780118840494627e-06,152,
+PBA,materials,SE,Gas Works Gas,19366.526932335746,1.0277582131683032e-06,153,
+PBA,materials,SE,Kerosene,11529.563524037318,6.1186002257793e-07,154,
+PBA,materials,SE,Oxygen Steel Furnace Gas,6513.347978090235,3.4565551702140106e-07,155,
+PBA,materials,SE,Charcoal,5662.893382769645,3.005229179590433e-07,156,
+PBA,materials,SE,Private households with employed persons (95),2176.1898082083403,1.1548776694002337e-07,157,
+PBA,materials,SE,Coal Tar,2058.3318907489042,1.0923318948898846e-07,158,
+PBA,materials,SE,Paper and wood waste for treatment: composting and land application,1824.5329693617555,9.682576287475494e-08,159,
+PBA,materials,SE,Other non-ferrous metal ores and concentrates,1632.1785407068576,8.66177454754512e-08,160,
+PBA,materials,SE,"Wool, silk-worm cocoons",1568.7009019382235,8.324906378952302e-08,161,
+PBA,materials,SE,Aviation Gasoline,725.6022880274536,3.850683778353572e-08,162,
+PBA,materials,SE,Ethane,97.18559118138006,5.1575220424013175e-09,163,
+PBA,materials,SE,Additives/Blending Components,17.64876850217113,9.365988462353986e-10,164,
+PBA,materials,SE,Electricity by Geothermal,1.5189451970578887,8.060858857569619e-11,165,
+PBA,materials,SE,Electricity by solar thermal,0.10626306838940164,5.639252803316179e-12,166,
+PBA,materials,SE,Nickel ores and concentrates,0.0013251711165881241,7.032523196778441e-14,167,
+PBA,materials,SE,Plant-based fibers,0.0,0.0,168,
+PBA,materials,SE,Gasoline Type Jet Fuel,0.0,0.0,169,
+PBA,materials,SE,Gas Coke,0.0,0.0,170,
+PBA,materials,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,171,
+PBA,materials,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,172,
+PBA,materials,SE,Tobacco products (16),0.0,0.0,173,
+PBA,materials,SE,Manure (biogas treatment),0.0,0.0,174,
+PBA,materials,SE,Manure (conventional treatment),0.0,0.0,175,
+PBA,materials,SE,Coking Coal,0.0,0.0,176,
+PBA,materials,SE,Patent Fuel,0.0,0.0,177,
+PBA,materials,SE,Sub-Bituminous Coal,0.0,0.0,178,
+PBA,materials,SE,Other Hydrocarbons,0.0,0.0,179,
+PBA,materials,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,180,
+PBA,materials,SE,Lignite/Brown Coal,0.0,0.0,181,
+PBA,materials,SE,Natural Gas Liquids,0.0,0.0,182,
+PBA,materials,SE,BKB/Peat Briquettes,0.0,0.0,183,
+PBA,materials,SE,Aluminium ores and concentrates,0.0,0.0,184,
+PBA,materials,SE,Anthracite,0.0,0.0,185,
+PBA,materials,SE,Other Bituminous Coal,0.0,0.0,186,
+PBA,materials,SE,Paddy rice,0.0,0.0,187,
+PBA,materials,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,188,
+PBA,materials,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,189,
+PBA,materials,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,190,
+PBA,materials,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,191,
+PBA,materials,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,192,
+PBA,materials,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,193,
+PBA,materials,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,194,
+PBA,materials,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,195,
+PBA,materials,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,196,
+PBA,materials,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,197,
+PBA,materials,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,198,
+PBA,materials,SE,"Electricity by tide, wave, ocean",0.0,0.0,199,
+PBA,materials,SE,Extra-territorial organizations and bodies,0.0,0.0,200,
+CBA,ghg,SE,Construction work (45),10834418912.021866,0.12039559075417786,1,kg CO2-Equivalents
+CBA,ghg,SE,Real estate services (70),7812964859.283664,0.08682020950208486,2,kg CO2-Equivalents
+CBA,ghg,SE,Steam and hot water supply services,4360999489.06278,0.04846084631099056,3,kg CO2-Equivalents
+CBA,ghg,SE,Machinery and equipment n.e.c. (29),4178177664.55005,0.04642927066824488,4,kg CO2-Equivalents
+CBA,ghg,SE,Supporting and auxiliary transport services; travel agency services (63),4146252912.6305876,0.04607451242987186,5,kg CO2-Equivalents
+CBA,ghg,SE,Food products nec,4142378765.6656394,0.046031461647333266,6,kg CO2-Equivalents
+CBA,ghg,SE,Hotel and restaurant services (55),4042972740.4847836,0.044926829527848385,7,kg CO2-Equivalents
+CBA,ghg,SE,"Motor vehicles, trailers and semi-trailers (34)",3197846636.750583,0.03553551308096866,8,kg CO2-Equivalents
+CBA,ghg,SE,Dairy products,3161595456.31653,0.035132678160209665,9,kg CO2-Equivalents
+CBA,ghg,SE,Air transport services (62),2721671699.93566,0.030244102135379935,10,kg CO2-Equivalents
+CBA,ghg,SE,Motor Gasoline,2398427295.3997746,0.026652105060308573,11,kg CO2-Equivalents
+CBA,ghg,SE,Products of meat cattle,2313847616.086102,0.025712228123718144,12,kg CO2-Equivalents
+CBA,ghg,SE,Health and social work services (85),2084266630.8349643,0.023161049461559623,13,kg CO2-Equivalents
+CBA,ghg,SE,Computer and related services (72),2005673189.2543182,0.022287693547842234,14,kg CO2-Equivalents
+CBA,ghg,SE,"Fabricated metal products, except machinery and equipment (28)",1808949547.170769,0.020101636381667693,15,kg CO2-Equivalents
+CBA,ghg,SE,Public administration and defence services; compulsory social security services (75),1757211575.4525814,0.01952670719349292,16,kg CO2-Equivalents
+CBA,ghg,SE,Furniture; other manufactured goods n.e.c. (36),1500805164.4896605,0.016677435666176785,17,kg CO2-Equivalents
+CBA,ghg,SE,Electrical machinery and apparatus n.e.c. (31),1342612930.8389504,0.014919552056750612,18,kg CO2-Equivalents
+CBA,ghg,SE,"Plastics, basic",1237681481.5434968,0.013753519625366563,19,kg CO2-Equivalents
+CBA,ghg,SE,Textiles (17),1233493827.819233,0.01370698505363727,20,kg CO2-Equivalents
+CBA,ghg,SE,Education services (80),1179820310.8514402,0.01311054745641445,21,kg CO2-Equivalents
+CBA,ghg,SE,Research and development services (73),1104349307.1418123,0.0122718890890193,22,kg CO2-Equivalents
+CBA,ghg,SE,Wearing apparel; furs (18),1021981723.3785384,0.011356593678467098,23,kg CO2-Equivalents
+CBA,ghg,SE,Other transport equipment (35),970172096.5858743,0.010780868235773077,24,kg CO2-Equivalents
+CBA,ghg,SE,Post and telecommunication services (64),947882616.8189145,0.010533180278907319,25,kg CO2-Equivalents
+CBA,ghg,SE,"Recreational, cultural and sporting services (92)",901829953.1008067,0.010021428084427108,26,kg CO2-Equivalents
+CBA,ghg,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",864842142.8660804,0.009610407493468413,27,kg CO2-Equivalents
+CBA,ghg,SE,Meat products nec,840600721.3782785,0.009341028924627357,28,kg CO2-Equivalents
+CBA,ghg,SE,Rubber and plastic products (25),800021097.231013,0.00889009492793913,29,kg CO2-Equivalents
+CBA,ghg,SE,"Vegetables, fruit, nuts",759287806.5239534,0.00843745333840298,30,kg CO2-Equivalents
+CBA,ghg,SE,Wheat,754872353.8944916,0.008388387391065344,31,kg CO2-Equivalents
+CBA,ghg,SE,"Radio, television and communication equipment and apparatus (32)",688811568.6284531,0.007654298435084099,32,kg CO2-Equivalents
+CBA,ghg,SE,Other land transportation services,676871622.005801,0.0075216178604376365,33,kg CO2-Equivalents
+CBA,ghg,SE,Membership organisation services n.e.c. (91),675292762.2414049,0.0075040730566418795,34,kg CO2-Equivalents
+CBA,ghg,SE,"Medical, precision and optical instruments, watches and clocks (33)",666596406.532694,0.007407436320379359,35,kg CO2-Equivalents
+CBA,ghg,SE,Office machinery and computers (30),663243533.528822,0.007370178103828678,36,kg CO2-Equivalents
+CBA,ghg,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",454075870.5890655,0.0050458389259923995,37,kg CO2-Equivalents
+CBA,ghg,SE,Beverages,432253480.249479,0.004803341418932975,38,kg CO2-Equivalents
+CBA,ghg,SE,Ceramic goods,413385338.99626946,0.004593672489656775,39,kg CO2-Equivalents
+CBA,ghg,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),412656465.45468974,0.0045855730095336455,40,kg CO2-Equivalents
+CBA,ghg,SE,Products of meat pigs,408840162.5728765,0.00454316500928151,41,kg CO2-Equivalents
+CBA,ghg,SE,"Insurance and pension funding services, except compulsory social security services (66)",401767525.3485509,0.004464571561517751,42,kg CO2-Equivalents
+CBA,ghg,SE,Other services (93),401552051.9114563,0.004462177150524277,43,kg CO2-Equivalents
+CBA,ghg,SE,Leather and leather products (19),389213514.84162194,0.0043250673090433735,44,kg CO2-Equivalents
+CBA,ghg,SE,Oil seeds,369922401.8562447,0.004110698180155162,45,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by hydro,330951132.37327397,0.003677636744194225,46,kg CO2-Equivalents
+CBA,ghg,SE,Railway transportation services,310255774.21385294,0.0034476631856946477,47,kg CO2-Equivalents
+CBA,ghg,SE,Crops nec,307097295.7920116,0.0034125651450364666,48,kg CO2-Equivalents
+CBA,ghg,SE,Other business services (74),301366902.1433527,0.003348887144934518,49,kg CO2-Equivalents
+CBA,ghg,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),291154007.04540765,0.003235398129177227,50,kg CO2-Equivalents
+CBA,ghg,SE,"Products of forestry, logging and related services (02)",290103845.95367014,0.0032237283971820485,51,kg CO2-Equivalents
+CBA,ghg,SE,Other non-metallic mineral products,286272469.6061223,0.0031811528956705863,52,kg CO2-Equivalents
+CBA,ghg,SE,Poultry,283570287.3860504,0.0031511253669814373,53,kg CO2-Equivalents
+CBA,ghg,SE,"Financial intermediation services, except insurance and pension funding services (65)",278167577.059866,0.003091088690656054,54,kg CO2-Equivalents
+CBA,ghg,SE,Cattle,274912013.589686,0.0030549118093287932,55,kg CO2-Equivalents
+CBA,ghg,SE,Distribution and trade services of electricity,269416019.7913674,0.002993838536686949,56,kg CO2-Equivalents
+CBA,ghg,SE,Printed matter and recorded media (22),267096755.0299858,0.0029680661114808264,57,kg CO2-Equivalents
+CBA,ghg,SE,Paper and paper products,260758051.20289722,0.0028976283706038048,58,kg CO2-Equivalents
+CBA,ghg,SE,Sea and coastal water transportation services,237836336.26208445,0.0026429148106235935,59,kg CO2-Equivalents
+CBA,ghg,SE,Meat animals nec,222020133.66250312,0.0024671600174106913,60,kg CO2-Equivalents
+CBA,ghg,SE,Nuclear fuel,181106514.26034746,0.0020125145566976636,61,kg CO2-Equivalents
+CBA,ghg,SE,"Lead, zinc and tin ores and concentrates",177064037.236672,0.0019675932357364114,62,kg CO2-Equivalents
+CBA,ghg,SE,Products of meat poultry,173678848.61941588,0.0019299759175674931,63,kg CO2-Equivalents
+CBA,ghg,SE,Processed rice,170938237.82704276,0.0018995213580701752,64,kg CO2-Equivalents
+CBA,ghg,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",105718797.4165309,0.0011747817000745118,65,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by nuclear,98217584.01802902,0.001091425774314276,66,kg CO2-Equivalents
+CBA,ghg,SE,products of Vegetable oils and fats,95884907.64815094,0.001065504314947576,67,kg CO2-Equivalents
+CBA,ghg,SE,Bitumen,94870117.27530657,0.0010542276338978258,68,kg CO2-Equivalents
+CBA,ghg,SE,Pigs,91601602.71629074,0.0010179068358544072,69,kg CO2-Equivalents
+CBA,ghg,SE,Transmission services of electricity,85255603.1099835,0.0009473880219031235,70,kg CO2-Equivalents
+CBA,ghg,SE,Private households with employed persons (95),83705717.85967517,0.0009301651923423237,71,kg CO2-Equivalents
+CBA,ghg,SE,Cereal grains nec,78025079.23399712,0.0008670400862565115,72,kg CO2-Equivalents
+CBA,ghg,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",75652773.61262444,0.000840678253743491,73,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by biomass and waste,61009735.6318814,0.0006779600477701883,74,kg CO2-Equivalents
+CBA,ghg,SE,Inland water transportation services,59984087.071167044,0.0006665627070012837,75,kg CO2-Equivalents
+CBA,ghg,SE,Copper products,58771433.86678963,0.000653087309741264,76,kg CO2-Equivalents
+CBA,ghg,SE,Tobacco products (16),57594780.08632007,0.0006400119498015095,77,kg CO2-Equivalents
+CBA,ghg,SE,Fish and other fishing products; services incidental of fishing (05),50435412.30723321,0.0005604547238728385,78,kg CO2-Equivalents
+CBA,ghg,SE,Electricity nec,47509947.1545019,0.0005279460025326445,79,kg CO2-Equivalents
+CBA,ghg,SE,Retail trade services of motor fuel,40412460.60328644,0.00044907642095727655,80,kg CO2-Equivalents
+CBA,ghg,SE,Basic iron and steel and of ferro-alloys and first products thereof,31544354.210959587,0.0003505311351745389,81,kg CO2-Equivalents
+CBA,ghg,SE,Kerosene Type Jet Fuel,31466590.23877696,0.0003496669965948565,82,kg CO2-Equivalents
+CBA,ghg,SE,Gas/Diesel Oil,29491827.668491717,0.00032772279190982994,83,kg CO2-Equivalents
+CBA,ghg,SE,Liquefied Petroleum Gases (LPG),26505039.968487483,0.0002945326344570556,84,kg CO2-Equivalents
+CBA,ghg,SE,Biogas,26387774.763768744,0.00029322954531940405,85,kg CO2-Equivalents
+CBA,ghg,SE,Secondary raw materials,25290842.0818181,0.00028104007218444227,86,kg CO2-Equivalents
+CBA,ghg,SE,Heavy Fuel Oil,21480865.140901856,0.00023870236784734778,87,kg CO2-Equivalents
+CBA,ghg,SE,Other Bituminous Coal,19673912.443990156,0.00021862292111595485,88,kg CO2-Equivalents
+CBA,ghg,SE,Animal products nec,19488529.485186905,0.00021656288531503992,89,kg CO2-Equivalents
+CBA,ghg,SE,"Cement, lime and plaster",15570820.422458017,0.00017302802656162116,90,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by petroleum and other oil derivatives,13696786.882314777,0.00015220315565799247,91,kg CO2-Equivalents
+CBA,ghg,SE,Pulp,13198407.463529624,0.00014666500127873144,92,kg CO2-Equivalents
+CBA,ghg,SE,Sand and clay,12802392.859908475,0.00014226435805666203,93,kg CO2-Equivalents
+CBA,ghg,SE,Stone,12485024.096622838,0.00013873765302033566,94,kg CO2-Equivalents
+CBA,ghg,SE,Copper ores and concentrates,12443045.149386575,0.0001382711692898478,95,kg CO2-Equivalents
+CBA,ghg,SE,Aluminium and aluminium products,12240799.245293355,0.00013602374695011364,96,kg CO2-Equivalents
+CBA,ghg,SE,Iron ores,10758830.293742334,0.00011955562541538536,97,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by gas,10459104.695248257,0.00011622497697102779,98,kg CO2-Equivalents
+CBA,ghg,SE,Services auxiliary to financial intermediation (67),10388976.24895802,0.00011544568684127128,99,kg CO2-Equivalents
+CBA,ghg,SE,Precious metal ores and concentrates,8182736.481315283,9.092923216773325e-05,100,kg CO2-Equivalents
+CBA,ghg,SE,Other non-ferrous metal products,6275851.437523626,6.973930465875901e-05,101,kg CO2-Equivalents
+CBA,ghg,SE,P- and other fertiliser,5872146.831073796,6.525320762130933e-05,102,kg CO2-Equivalents
+CBA,ghg,SE,N-fertiliser,4200024.5079709,4.6672039905905494e-05,103,kg CO2-Equivalents
+CBA,ghg,SE,Raw milk,3922621.0567443077,4.3589442430316394e-05,104,kg CO2-Equivalents
+CBA,ghg,SE,Sugar,3848349.160009026,4.2764108930062364e-05,105,kg CO2-Equivalents
+CBA,ghg,SE,Foundry work services,2896080.5877980073,3.218219048672354e-05,106,kg CO2-Equivalents
+CBA,ghg,SE,Biodiesels,2875251.931613228,3.19507356771629e-05,107,kg CO2-Equivalents
+CBA,ghg,SE,Precious metals,2156785.4694154086,2.3966902408782442e-05,108,kg CO2-Equivalents
+CBA,ghg,SE,Glass and glass products,1818819.4150768705,2.021131356757586e-05,109,kg CO2-Equivalents
+CBA,ghg,SE,"Lead, zinc and tin and products thereof",1799409.1928053072,1.999562085751628e-05,110,kg CO2-Equivalents
+CBA,ghg,SE,Naphtha,1751922.3948093893,1.9467932095971436e-05,111,kg CO2-Equivalents
+CBA,ghg,SE,Other Liquid Biofuels,1549397.4456668044,1.7217408916788673e-05,112,kg CO2-Equivalents
+CBA,ghg,SE,Fish products,1494739.7289690154,1.6610034571700075e-05,113,kg CO2-Equivalents
+CBA,ghg,SE,Gas Works Gas,1070074.6114248186,1.1891017510001033e-05,114,kg CO2-Equivalents
+CBA,ghg,SE,"Bricks, tiles and construction products, in baked clay",1015433.589883635,1.1283828686928758e-05,115,kg CO2-Equivalents
+CBA,ghg,SE,Biogasoline,965033.0988311945,1.0723762019409912e-05,116,kg CO2-Equivalents
+CBA,ghg,SE,Other non-ferrous metal ores and concentrates,551431.5129481395,6.127686523934855e-06,117,kg CO2-Equivalents
+CBA,ghg,SE,Refinery Feedstocks,322234.82711591636,3.5807783220513544e-06,118,kg CO2-Equivalents
+CBA,ghg,SE,Paddy rice,302434.54911163094,3.3607511856834077e-06,119,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by solar photovoltaic,249869.71693110024,2.7766336548163828e-06,120,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by coal,158644.88842321848,1.7629136566475667e-06,121,kg CO2-Equivalents
+CBA,ghg,SE,Aviation Gasoline,153065.33493491035,1.7009118415226214e-06,122,kg CO2-Equivalents
+CBA,ghg,SE,Coke Oven Coke,124455.16819339897,1.3829863529117153e-06,123,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by wind,122408.55489323652,1.3602437195209198e-06,124,kg CO2-Equivalents
+CBA,ghg,SE,Coking Coal,108981.49525344657,1.211037860807966e-06,125,kg CO2-Equivalents
+CBA,ghg,SE,Kerosene,62439.518385071795,6.938482592763436e-07,126,kg CO2-Equivalents
+CBA,ghg,SE,Peat,60845.72652215053,6.761375251397217e-07,127,kg CO2-Equivalents
+CBA,ghg,SE,Nickel ores and concentrates,27612.337324223117,3.068372832219659e-07,128,kg CO2-Equivalents
+CBA,ghg,SE,Additives/Blending Components,12745.631557057588,1.4163360797728985e-07,129,kg CO2-Equivalents
+CBA,ghg,SE,Lubricants,10979.472775674583,1.220074765181912e-07,130,kg CO2-Equivalents
+CBA,ghg,SE,Paraffin Waxes,8091.841684366987,8.991917958771638e-08,131,kg CO2-Equivalents
+CBA,ghg,SE,Aluminium ores and concentrates,6232.300273078092,6.925534993871082e-08,132,kg CO2-Equivalents
+CBA,ghg,SE,"Wool, silk-worm cocoons",1809.4056945955479,2.0106705240378363e-08,133,kg CO2-Equivalents
+CBA,ghg,SE,Charcoal,1774.4999215176217,1.971882092423981e-08,134,kg CO2-Equivalents
+CBA,ghg,SE,Coal Tar,1228.8631988537131,1.365552799678962e-08,135,kg CO2-Equivalents
+CBA,ghg,SE,"Sugar cane, sugar beet",135.74351699806337,1.5084261604374116e-09,136,kg CO2-Equivalents
+CBA,ghg,SE,Plant-based fibers,86.57389802449009,9.620373442441802e-10,137,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by Geothermal,8.695183229337013,9.662370728994542e-11,138,kg CO2-Equivalents
+CBA,ghg,SE,BKB/Peat Briquettes,1.2905042990051936,1.4340503972680699e-11,139,kg CO2-Equivalents
+CBA,ghg,SE,Electricity by solar thermal,0.20049485346883167,2.227964095034947e-12,140,kg CO2-Equivalents
+CBA,ghg,SE,Anthracite,0.12326549337159379,1.3697662989208476e-12,141,kg CO2-Equivalents
+CBA,ghg,SE,Patent Fuel,0.11031377259708905,1.2258425604544104e-12,142,kg CO2-Equivalents
+CBA,ghg,SE,Natural Gas Liquids,0.10663252763797948,1.1849353678156752e-12,143,kg CO2-Equivalents
+CBA,ghg,SE,Lignite/Brown Coal,0.06748585650525696,7.499248116100248e-13,144,kg CO2-Equivalents
+CBA,ghg,SE,Other Hydrocarbons,0.05309808882065442,5.900432522862001e-13,145,kg CO2-Equivalents
+CBA,ghg,SE,Manure (biogas treatment),0.0,0.0,146,kg CO2-Equivalents
+CBA,ghg,SE,Manure (conventional treatment),0.0,0.0,147,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,148,kg CO2-Equivalents
+CBA,ghg,SE,Sub-Bituminous Coal,0.0,0.0,149,kg CO2-Equivalents
+CBA,ghg,SE,Uranium and thorium ores (12),0.0,0.0,150,kg CO2-Equivalents
+CBA,ghg,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,151,kg CO2-Equivalents
+CBA,ghg,SE,"Natural gas and services related to natural gas extraction, excluding surveying",0.0,0.0,152,kg CO2-Equivalents
+CBA,ghg,SE,Gasoline Type Jet Fuel,0.0,0.0,153,kg CO2-Equivalents
+CBA,ghg,SE,Gas Coke,0.0,0.0,154,kg CO2-Equivalents
+CBA,ghg,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,155,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,156,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,157,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,158,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,159,kg CO2-Equivalents
+CBA,ghg,SE,Refinery Gas,0.0,0.0,160,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,161,kg CO2-Equivalents
+CBA,ghg,SE,Non-specified Petroleum Products,0.0,0.0,162,kg CO2-Equivalents
+CBA,ghg,SE,Petroleum Coke,0.0,0.0,163,kg CO2-Equivalents
+CBA,ghg,SE,White Spirit & SBP,0.0,0.0,164,kg CO2-Equivalents
+CBA,ghg,SE,Ethane,0.0,0.0,165,kg CO2-Equivalents
+CBA,ghg,SE,Chemicals nec,0.0,0.0,166,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,167,kg CO2-Equivalents
+CBA,ghg,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,168,kg CO2-Equivalents
+CBA,ghg,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,169,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,170,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,171,kg CO2-Equivalents
+CBA,ghg,SE,"Electricity by tide, wave, ocean",0.0,0.0,172,kg CO2-Equivalents
+CBA,ghg,SE,Oxygen Steel Furnace Gas,0.0,0.0,173,kg CO2-Equivalents
+CBA,ghg,SE,Distribution services of gaseous fuels through mains,0.0,0.0,174,kg CO2-Equivalents
+CBA,ghg,SE,"Collected and purified water, distribution services of water (41)",0.0,0.0,175,kg CO2-Equivalents
+CBA,ghg,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,176,kg CO2-Equivalents
+CBA,ghg,SE,Transportation services via pipelines,0.0,0.0,177,kg CO2-Equivalents
+CBA,ghg,SE,Blast Furnace Gas,0.0,0.0,178,kg CO2-Equivalents
+CBA,ghg,SE,Coke oven gas,0.0,0.0,179,kg CO2-Equivalents
+CBA,ghg,SE,Textiles waste for treatment: incineration,0.0,0.0,180,kg CO2-Equivalents
+CBA,ghg,SE,Paper waste for treatment: incineration,0.0,0.0,181,kg CO2-Equivalents
+CBA,ghg,SE,Plastic waste for treatment: incineration,0.0,0.0,182,kg CO2-Equivalents
+CBA,ghg,SE,Intert/metal waste for treatment: incineration,0.0,0.0,183,kg CO2-Equivalents
+CBA,ghg,SE,Food waste for treatment: incineration,0.0,0.0,184,kg CO2-Equivalents
+CBA,ghg,SE,Paper waste for treatment: biogasification and land application,0.0,0.0,185,kg CO2-Equivalents
+CBA,ghg,SE,Food waste for treatment: biogasification and land application,0.0,0.0,186,kg CO2-Equivalents
+CBA,ghg,SE,Oil/hazardous waste for treatment: incineration,0.0,0.0,187,kg CO2-Equivalents
+CBA,ghg,SE,Wood waste for treatment: incineration,0.0,0.0,188,kg CO2-Equivalents
+CBA,ghg,SE,Sewage sludge for treatment: biogasification and land application,0.0,0.0,189,kg CO2-Equivalents
+CBA,ghg,SE,Food waste for treatment: composting and land application,0.0,0.0,190,kg CO2-Equivalents
+CBA,ghg,SE,Paper and wood waste for treatment: composting and land application,0.0,0.0,191,kg CO2-Equivalents
+CBA,ghg,SE,Food waste for treatment: waste water treatment,0.0,0.0,192,kg CO2-Equivalents
+CBA,ghg,SE,Plastic waste for treatment: landfill,0.0,0.0,193,kg CO2-Equivalents
+CBA,ghg,SE,Paper for treatment: landfill,0.0,0.0,194,kg CO2-Equivalents
+CBA,ghg,SE,Food waste for treatment: landfill,0.0,0.0,195,kg CO2-Equivalents
+CBA,ghg,SE,Other waste for treatment: waste water treatment,0.0,0.0,196,kg CO2-Equivalents
+CBA,ghg,SE,Wood waste for treatment: landfill,0.0,0.0,197,kg CO2-Equivalents
+CBA,ghg,SE,Textiles waste for treatment: landfill,0.0,0.0,198,kg CO2-Equivalents
+CBA,ghg,SE,Inert/metal/hazardous waste for treatment: landfill,0.0,0.0,199,kg CO2-Equivalents
+CBA,ghg,SE,Extra-territorial organizations and bodies,0.0,0.0,200,kg CO2-Equivalents
+PBA,ghg,SE,Steam and hot water supply services,5535877320.738843,0.10761267511725044,1,kg CO2-Equivalents
+PBA,ghg,SE,Food waste for treatment: landfill,3781346327.330443,0.07350610756932555,2,kg CO2-Equivalents
+PBA,ghg,SE,Paper for treatment: landfill,2890669470.9351516,0.056192118543114955,3,kg CO2-Equivalents
+PBA,ghg,SE,Sea and coastal water transportation services,2850031752.5225816,0.055402156386140246,4,kg CO2-Equivalents
+PBA,ghg,SE,Basic iron and steel and of ferro-alloys and first products thereof,2400098735.5319223,0.046655847034133516,5,kg CO2-Equivalents
+PBA,ghg,SE,Raw milk,2250941577.5654745,0.043756360674216586,6,kg CO2-Equivalents
+PBA,ghg,SE,Cattle,2229208342.467364,0.04333388534964641,7,kg CO2-Equivalents
+PBA,ghg,SE,"Cement, lime and plaster",2139058602.2707233,0.04158145224074384,8,kg CO2-Equivalents
+PBA,ghg,SE,Other transport equipment (35),2121716448.1896222,0.04124433573963002,9,kg CO2-Equivalents
+PBA,ghg,SE,Air transport services (62),1496761872.4468212,0.029095758409257884,10,kg CO2-Equivalents
+PBA,ghg,SE,Secondary raw materials,1460943521.1068428,0.028399480586853,11,kg CO2-Equivalents
+PBA,ghg,SE,Other business services (74),1373317531.4259653,0.02669610700882413,12,kg CO2-Equivalents
+PBA,ghg,SE,Construction work (45),1169195123.2424753,0.022728143644876426,13,kg CO2-Equivalents
+PBA,ghg,SE,Gas/Diesel Oil,802720168.4596834,0.015604186959653833,14,kg CO2-Equivalents
+PBA,ghg,SE,Paper and paper products,785587714.7111173,0.015271146851937048,15,kg CO2-Equivalents
+PBA,ghg,SE,Cereal grains nec,747469890.1037716,0.014530169254713279,16,kg CO2-Equivalents
+PBA,ghg,SE,Motor Gasoline,678109906.1600147,0.013181871056284085,17,kg CO2-Equivalents
+PBA,ghg,SE,Computer and related services (72),656822821.1991093,0.012768068505149248,18,kg CO2-Equivalents
+PBA,ghg,SE,Wheat,645333799.2246692,0.0125447318382548,19,kg CO2-Equivalents
+PBA,ghg,SE,Meat animals nec,639132180.8129838,0.01242417773116906,20,kg CO2-Equivalents
+PBA,ghg,SE,Real estate services (70),624370323.0938551,0.012137219963354285,21,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by hydro,560058583.6317308,0.010887055278700621,22,kg CO2-Equivalents
+PBA,ghg,SE,"Medical, precision and optical instruments, watches and clocks (33)",512356673.6325858,0.00995977133691609,23,kg CO2-Equivalents
+PBA,ghg,SE,"Motor vehicles, trailers and semi-trailers (34)",502633563.5193379,0.009770762471812383,24,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by wind,458231267.176013,0.008907620170418974,25,kg CO2-Equivalents
+PBA,ghg,SE,Renting services of machinery and equipment without operator and of personal and household goods (71),457425602.2749783,0.008891958740400715,26,kg CO2-Equivalents
+PBA,ghg,SE,"Plastics, basic",447622052.7471576,0.008701386202533775,27,kg CO2-Equivalents
+PBA,ghg,SE,Distribution services of gaseous fuels through mains,401644159.1600848,0.007807615651184052,28,kg CO2-Equivalents
+PBA,ghg,SE,Electricity nec,396593751.4856031,0.0077094400868073605,29,kg CO2-Equivalents
+PBA,ghg,SE,Heavy Fuel Oil,362488601.2624277,0.007046465414835806,30,kg CO2-Equivalents
+PBA,ghg,SE,Pulp,352077721.77005523,0.006844086906861935,31,kg CO2-Equivalents
+PBA,ghg,SE,Furniture; other manufactured goods n.e.c. (36),322656160.84613645,0.006272157166784982,32,kg CO2-Equivalents
+PBA,ghg,SE,Glass and glass products,304063702.426604,0.0059107358289174185,33,kg CO2-Equivalents
+PBA,ghg,SE,Copper ores and concentrates,300293823.79335046,0.005837452643419076,34,kg CO2-Equivalents
+PBA,ghg,SE,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),287948783.15314245,0.0055974757127983206,35,kg CO2-Equivalents
+PBA,ghg,SE,Foundry work services,286567520.55455774,0.005570625160544163,36,kg CO2-Equivalents
+PBA,ghg,SE,Aluminium and aluminium products,275777090.1481149,0.00536086851052706,37,kg CO2-Equivalents
+PBA,ghg,SE,Oil seeds,273230710.45651376,0.005311369088014412,38,kg CO2-Equivalents
+PBA,ghg,SE,Poultry,273032963.4527057,0.005307525057006628,39,kg CO2-Equivalents
+PBA,ghg,SE,Stone,240604437.0638133,0.004677142504679167,40,kg CO2-Equivalents
+PBA,ghg,SE,"Collected and purified water, distribution services of water (41)",240417842.02528897,0.004673515258247244,41,kg CO2-Equivalents
+PBA,ghg,SE,Hotel and restaurant services (55),237694102.6959307,0.004620568117519207,42,kg CO2-Equivalents
+PBA,ghg,SE,Food products nec,225361407.6571,0.004380831174729318,43,kg CO2-Equivalents
+PBA,ghg,SE,Other services (93),218090235.75951976,0.0042394858713923666,44,kg CO2-Equivalents
+PBA,ghg,SE,Supporting and auxiliary transport services; travel agency services (63),212856858.55262977,0.004137753537292175,45,kg CO2-Equivalents
+PBA,ghg,SE,Sand and clay,207786290.96942547,0.004039186081697151,46,kg CO2-Equivalents
+PBA,ghg,SE,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",206244689.7681978,0.004009218685453273,47,kg CO2-Equivalents
+PBA,ghg,SE,Coke Oven Coke,199047629.3702985,0.0038693140456779475,48,kg CO2-Equivalents
+PBA,ghg,SE,Inland water transportation services,189575237.7659531,0.0036851789319023867,49,kg CO2-Equivalents
+PBA,ghg,SE,"Products of forestry, logging and related services (02)",186589445.34117937,0.0036271377052713312,50,kg CO2-Equivalents
+PBA,ghg,SE,Machinery and equipment n.e.c. (29),177463609.7014444,0.0034497393402112553,51,kg CO2-Equivalents
+PBA,ghg,SE,Plastic waste for treatment: landfill,176565931.26155928,0.003432289246447576,52,kg CO2-Equivalents
+PBA,ghg,SE,"Fabricated metal products, except machinery and equipment (28)",170226114.65573874,0.003309048685796196,53,kg CO2-Equivalents
+PBA,ghg,SE,Other non-metallic mineral products,169818433.26121587,0.003301123711502459,54,kg CO2-Equivalents
+PBA,ghg,SE,Pigs,167737648.5000019,0.0032606750524148405,55,kg CO2-Equivalents
+PBA,ghg,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",160083994.55032724,0.0031118946282423852,56,kg CO2-Equivalents
+PBA,ghg,SE,Chemicals nec,152222021.29568425,0.0029590646566563295,57,kg CO2-Equivalents
+PBA,ghg,SE,Intert/metal waste for treatment: incineration,149428299.3221276,0.0029047571137521544,58,kg CO2-Equivalents
+PBA,ghg,SE,"Insurance and pension funding services, except compulsory social security services (66)",140269884.93732488,0.0027267254460183413,59,kg CO2-Equivalents
+PBA,ghg,SE,Dairy products,133560174.4926248,0.002596294468526961,60,kg CO2-Equivalents
+PBA,ghg,SE,Ceramic goods,131488071.54280439,0.002556014576356453,61,kg CO2-Equivalents
+PBA,ghg,SE,Animal products nec,125759032.51175697,0.0024446470043778404,62,kg CO2-Equivalents
+PBA,ghg,SE,Iron ores,117630212.43912531,0.0022866297610611218,63,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by biomass and waste,111539440.15376435,0.002168230406960149,64,kg CO2-Equivalents
+PBA,ghg,SE,Health and social work services (85),109648133.838285,0.0021314650452509197,65,kg CO2-Equivalents
+PBA,ghg,SE,Crops nec,107277481.08254853,0.002085381602638641,66,kg CO2-Equivalents
+PBA,ghg,SE,Research and development services (73),102733043.22173668,0.0019970416545559747,67,kg CO2-Equivalents
+PBA,ghg,SE,Printed matter and recorded media (22),102108166.15461893,0.0019848945839263483,68,kg CO2-Equivalents
+PBA,ghg,SE,Food waste for treatment: composting and land application,100107948.0116973,0.0019460120703324367,69,kg CO2-Equivalents
+PBA,ghg,SE,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",98666925.59005372,0.0019179998387181155,70,kg CO2-Equivalents
+PBA,ghg,SE,Textiles waste for treatment: landfill,98575795.99708316,0.0019162283581173496,71,kg CO2-Equivalents
+PBA,ghg,SE,Other land transportation services,90732409.04392563,0.0017637596881836793,72,kg CO2-Equivalents
+PBA,ghg,SE,Post and telecommunication services (64),89612688.27577086,0.0017419932832826769,73,kg CO2-Equivalents
+PBA,ghg,SE,Retail trade services of motor fuel,82535243.68999518,0.0016044138716117965,74,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by nuclear,78810884.02190515,0.0015320155354925141,75,kg CO2-Equivalents
+PBA,ghg,SE,"Vegetables, fruit, nuts",77456487.43251334,0.001505687235259394,76,kg CO2-Equivalents
+PBA,ghg,SE,Membership organisation services n.e.c. (91),70954267.55951081,0.0013792896953224065,77,kg CO2-Equivalents
+PBA,ghg,SE,Public administration and defence services; compulsory social security services (75),70667554.3201131,0.0013737162375133734,78,kg CO2-Equivalents
+PBA,ghg,SE,"Sugar cane, sugar beet",68471908.40166041,0.0013310347767068267,79,kg CO2-Equivalents
+PBA,ghg,SE,Food waste for treatment: incineration,65155327.92715446,0.0012665633160105858,80,kg CO2-Equivalents
+PBA,ghg,SE,"Natural gas and services related to natural gas extraction, excluding surveying",61764981.87384543,0.0012006579161558972,81,kg CO2-Equivalents
+PBA,ghg,SE,Fish products,59343086.87622015,0.001153578368606827,82,kg CO2-Equivalents
+PBA,ghg,SE,Beverages,57903011.29384771,0.0011255845427303808,83,kg CO2-Equivalents
+PBA,ghg,SE,Inert/metal/hazardous waste for treatment: landfill,54075118.15061118,0.0010511736052510644,84,kg CO2-Equivalents
+PBA,ghg,SE,Biogas,46212406.66261532,0.0008983292830460624,85,kg CO2-Equivalents
+PBA,ghg,SE,Education services (80),45526130.41612255,0.0008849886653850019,86,kg CO2-Equivalents
+PBA,ghg,SE,Wood waste for treatment: landfill,43758958.48905918,0.0008506363690017406,87,kg CO2-Equivalents
+PBA,ghg,SE,Blast Furnace Gas,41973938.1046598,0.0008159371140192616,88,kg CO2-Equivalents
+PBA,ghg,SE,"Lead, zinc and tin and products thereof",41575389.1072444,0.0008081896656398518,89,kg CO2-Equivalents
+PBA,ghg,SE,Other waste for treatment: waste water treatment,41290588.013662525,0.0008026533782944209,90,kg CO2-Equivalents
+PBA,ghg,SE,"Bricks, tiles and construction products, in baked clay",40835815.419926755,0.0007938129917492608,91,kg CO2-Equivalents
+PBA,ghg,SE,"Lead, zinc and tin ores and concentrates",39114442.04285396,0.0007603509796326889,92,kg CO2-Equivalents
+PBA,ghg,SE,"Financial intermediation services, except insurance and pension funding services (65)",38436850.643238924,0.0007471791878959305,93,kg CO2-Equivalents
+PBA,ghg,SE,Nuclear fuel,37906581.67638574,0.00073687121704532,94,kg CO2-Equivalents
+PBA,ghg,SE,Transportation services via pipelines,37898139.29947015,0.0007367071045277195,95,kg CO2-Equivalents
+PBA,ghg,SE,Lubricants,37213041.00673524,0.0007233893852705981,96,kg CO2-Equivalents
+PBA,ghg,SE,Meat products nec,36017967.1632318,0.0007001581816490381,97,kg CO2-Equivalents
+PBA,ghg,SE,Kerosene Type Jet Fuel,35303811.109867714,0.0006862756046154435,98,kg CO2-Equivalents
+PBA,ghg,SE,Electrical machinery and apparatus n.e.c. (31),34035566.96114546,0.0006616220334399199,99,kg CO2-Equivalents
+PBA,ghg,SE,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",32381036.435738396,0.0006294593886437306,100,kg CO2-Equivalents
+PBA,ghg,SE,Liquefied Petroleum Gases (LPG),29408098.82137121,0.0005716680484273886,101,kg CO2-Equivalents
+PBA,ghg,SE,Services auxiliary to financial intermediation (67),28351706.771983948,0.0005511326991375339,102,kg CO2-Equivalents
+PBA,ghg,SE,Rubber and plastic products (25),28202097.81720415,0.000548224430237673,103,kg CO2-Equivalents
+PBA,ghg,SE,Paper waste for treatment: incineration,27813939.60099232,0.0005406789696728567,104,kg CO2-Equivalents
+PBA,ghg,SE,"Recreational, cultural and sporting services (92)",26965084.47520115,0.0005241779589782797,105,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by gas,26816635.452821944,0.0005212922381627335,106,kg CO2-Equivalents
+PBA,ghg,SE,Bitumen,25847845.0159869,0.000502459788580575,107,kg CO2-Equivalents
+PBA,ghg,SE,Biodiesels,25164105.2700687,0.0004891684783005223,108,kg CO2-Equivalents
+PBA,ghg,SE,Copper products,24859558.99392527,0.000483248361655232,109,kg CO2-Equivalents
+PBA,ghg,SE,Wood waste for treatment: incineration,22782484.493868053,0.00044287182684084585,110,kg CO2-Equivalents
+PBA,ghg,SE,Railway transportation services,22243138.954198625,0.0004323874152519275,111,kg CO2-Equivalents
+PBA,ghg,SE,Precious metal ores and concentrates,22163918.86799831,0.0004308474451794157,112,kg CO2-Equivalents
+PBA,ghg,SE,Coke oven gas,21576216.16330588,0.00041942301205683425,113,kg CO2-Equivalents
+PBA,ghg,SE,Oil/hazardous waste for treatment: incineration,20343309.295770425,0.00039545636711532173,114,kg CO2-Equivalents
+PBA,ghg,SE,Naphtha,18141128.123392366,0.00035264786661538345,115,kg CO2-Equivalents
+PBA,ghg,SE,Distribution and trade services of electricity,17605902.883154593,0.00034224355008971076,116,kg CO2-Equivalents
+PBA,ghg,SE,Other non-ferrous metal products,16725022.56206952,0.0003251199972510334,117,kg CO2-Equivalents
+PBA,ghg,SE,Plastic waste for treatment: incineration,16528287.334817695,0.0003212956343058763,118,kg CO2-Equivalents
+PBA,ghg,SE,Food waste for treatment: waste water treatment,16243798.792149536,0.0003157654226803335,119,kg CO2-Equivalents
+PBA,ghg,SE,Sugar,15347469.811741585,0.0002983415612436889,120,kg CO2-Equivalents
+PBA,ghg,SE,Fish and other fishing products; services incidental of fishing (05),14521769.831649514,0.0002822906665880051,121,kg CO2-Equivalents
+PBA,ghg,SE,Other Liquid Biofuels,14349208.510455588,0.0002789362235034595,122,kg CO2-Equivalents
+PBA,ghg,SE,Wearing apparel; furs (18),14320436.083270319,0.0002783769123627621,123,kg CO2-Equivalents
+PBA,ghg,SE,Non-specified Petroleum Products,13735214.918620182,0.0002670007182358971,124,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by petroleum and other oil derivatives,13645481.795378694,0.00026525638380087146,125,kg CO2-Equivalents
+PBA,ghg,SE,Sewage sludge for treatment: biogasification and land application,11998144.888251267,0.0002332335767326505,126,kg CO2-Equivalents
+PBA,ghg,SE,Biogasoline,11151663.285722865,0.0002167787052808639,127,kg CO2-Equivalents
+PBA,ghg,SE,Textiles (17),10675135.594481563,0.0002075154184248106,128,kg CO2-Equivalents
+PBA,ghg,SE,"Radio, television and communication equipment and apparatus (32)",10451861.188647311,0.0002031751567634789,129,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by coal,9503431.47303345,0.00018473850202123133,130,kg CO2-Equivalents
+PBA,ghg,SE,Textiles waste for treatment: incineration,9360980.385688474,0.00018196937588378507,131,kg CO2-Equivalents
+PBA,ghg,SE,Products of meat poultry,7866360.175801486,0.0001529152495454545,132,kg CO2-Equivalents
+PBA,ghg,SE,Refinery Feedstocks,7668938.332423261,0.00014907753937566445,133,kg CO2-Equivalents
+PBA,ghg,SE,P- and other fertiliser,6921279.588206488,0.00013454369896006202,134,kg CO2-Equivalents
+PBA,ghg,SE,Transmission services of electricity,6595711.3764827065,0.00012821493403864943,135,kg CO2-Equivalents
+PBA,ghg,SE,Office machinery and computers (30),6505665.698538238,0.0001264645238100757,136,kg CO2-Equivalents
+PBA,ghg,SE,Products of meat pigs,5537657.948126066,0.00010764728897616096,137,kg CO2-Equivalents
+PBA,ghg,SE,Products of meat cattle,5248366.310921402,0.00010202370934009923,138,kg CO2-Equivalents
+PBA,ghg,SE,Peat,4176469.355209457,8.118695805912897e-05,139,kg CO2-Equivalents
+PBA,ghg,SE,Petroleum Coke,3335897.4093125444,6.484696522951786e-05,140,kg CO2-Equivalents
+PBA,ghg,SE,Gas Works Gas,3266531.8294140296,6.349855825056004e-05,141,kg CO2-Equivalents
+PBA,ghg,SE,Refinery Gas,3199315.5047947764,6.219193093843927e-05,142,kg CO2-Equivalents
+PBA,ghg,SE,Uranium and thorium ores (12),3051719.316885914,5.932278848860962e-05,143,kg CO2-Equivalents
+PBA,ghg,SE,Food waste for treatment: biogasification and land application,2324197.185914627,4.518038644737836e-05,144,kg CO2-Equivalents
+PBA,ghg,SE,Kerosene,2242924.006743596,4.360050602027544e-05,145,kg CO2-Equivalents
+PBA,ghg,SE,Paraffin Waxes,2000477.658322653,3.888755834922689e-05,146,kg CO2-Equivalents
+PBA,ghg,SE,Precious metals,1709918.5724035867,3.323934060454598e-05,147,kg CO2-Equivalents
+PBA,ghg,SE,White Spirit & SBP,1548267.1995086377,3.0096977494649617e-05,148,kg CO2-Equivalents
+PBA,ghg,SE,products of Vegetable oils and fats,907750.2706788416,1.7645881457705567e-05,149,kg CO2-Equivalents
+PBA,ghg,SE,Oxygen Steel Furnace Gas,741130.5970520473,1.4406938871501462e-05,150,kg CO2-Equivalents
+PBA,ghg,SE,N-fertiliser,641247.431533634,1.246529637874821e-05,151,kg CO2-Equivalents
+PBA,ghg,SE,Leather and leather products (19),515945.41662756854,1.0029533402009477e-05,152,kg CO2-Equivalents
+PBA,ghg,SE,Paper waste for treatment: biogasification and land application,501808.4473962133,9.754722926832011e-06,153,kg CO2-Equivalents
+PBA,ghg,SE,Processed rice,455041.82620673534,8.84562019192474e-06,154,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by solar photovoltaic,449503.88021389797,8.737967303608106e-06,155,kg CO2-Equivalents
+PBA,ghg,SE,Ethane,331791.18652885704,6.449734178345482e-06,156,kg CO2-Equivalents
+PBA,ghg,SE,Private households with employed persons (95),153590.51366636297,2.985666966706551e-06,157,kg CO2-Equivalents
+PBA,ghg,SE,Aviation Gasoline,82804.33799001969,1.6096448324526294e-06,158,kg CO2-Equivalents
+PBA,ghg,SE,Charcoal,79958.68900388193,1.5543278732606751e-06,159,kg CO2-Equivalents
+PBA,ghg,SE,Coal Tar,74922.8414646892,1.4564353453419344e-06,160,kg CO2-Equivalents
+PBA,ghg,SE,Other non-ferrous metal ores and concentrates,42658.67685920503,8.292478441644215e-07,161,kg CO2-Equivalents
+PBA,ghg,SE,"Wool, silk-worm cocoons",16816.97480055822,3.269074693703519e-07,162,kg CO2-Equivalents
+PBA,ghg,SE,Additives/Blending Components,10527.949057449894,2.0465423923431723e-07,163,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by Geothermal,3534.7411706026064,6.871231625574755e-08,164,kg CO2-Equivalents
+PBA,ghg,SE,Nickel ores and concentrates,2505.106196343304,4.8697101402767976e-08,165,kg CO2-Equivalents
+PBA,ghg,SE,Paper and wood waste for treatment: composting and land application,1474.0231577722157,2.86537374299101e-08,166,kg CO2-Equivalents
+PBA,ghg,SE,Electricity by solar thermal,2.6509979978653377,5.153311205290385e-11,167,kg CO2-Equivalents
+PBA,ghg,SE,Plant-based fibers,0.0,0.0,168,kg CO2-Equivalents
+PBA,ghg,SE,Gasoline Type Jet Fuel,0.0,0.0,169,kg CO2-Equivalents
+PBA,ghg,SE,Gas Coke,0.0,0.0,170,kg CO2-Equivalents
+PBA,ghg,SE,"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,171,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,172,kg CO2-Equivalents
+PBA,ghg,SE,Tobacco products (16),0.0,0.0,173,kg CO2-Equivalents
+PBA,ghg,SE,Manure (biogas treatment),0.0,0.0,174,kg CO2-Equivalents
+PBA,ghg,SE,Manure (conventional treatment),0.0,0.0,175,kg CO2-Equivalents
+PBA,ghg,SE,Coking Coal,0.0,0.0,176,kg CO2-Equivalents
+PBA,ghg,SE,Patent Fuel,0.0,0.0,177,kg CO2-Equivalents
+PBA,ghg,SE,Sub-Bituminous Coal,0.0,0.0,178,kg CO2-Equivalents
+PBA,ghg,SE,Other Hydrocarbons,0.0,0.0,179,kg CO2-Equivalents
+PBA,ghg,SE,"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,0.0,180,kg CO2-Equivalents
+PBA,ghg,SE,Lignite/Brown Coal,0.0,0.0,181,kg CO2-Equivalents
+PBA,ghg,SE,Natural Gas Liquids,0.0,0.0,182,kg CO2-Equivalents
+PBA,ghg,SE,BKB/Peat Briquettes,0.0,0.0,183,kg CO2-Equivalents
+PBA,ghg,SE,Aluminium ores and concentrates,0.0,0.0,184,kg CO2-Equivalents
+PBA,ghg,SE,Anthracite,0.0,0.0,185,kg CO2-Equivalents
+PBA,ghg,SE,Other Bituminous Coal,0.0,0.0,186,kg CO2-Equivalents
+PBA,ghg,SE,Paddy rice,0.0,0.0,187,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,188,kg CO2-Equivalents
+PBA,ghg,SE,"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,189,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,190,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,191,kg CO2-Equivalents
+PBA,ghg,SE,"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,192,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,193,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,194,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,195,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,196,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,197,kg CO2-Equivalents
+PBA,ghg,SE,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,198,kg CO2-Equivalents
+PBA,ghg,SE,"Electricity by tide, wave, ocean",0.0,0.0,199,kg CO2-Equivalents
+PBA,ghg,SE,Extra-territorial organizations and bodies,0.0,0.0,200,kg CO2-Equivalents

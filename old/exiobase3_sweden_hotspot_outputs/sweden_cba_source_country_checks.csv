@@ -1,0 +1,16 @@
+indicator,target_region,target_sector,reconstructed_total,model_total,abs_difference,relative_difference
+economic_importance,SE,Computer and related services (72),37398.323859682474,37398.323859682474,0.0,0.0
+economic_importance,SE,Construction work (45),78459.54521176811,78459.54521176811,0.0,0.0
+economic_importance,SE,Education services (80),44026.65711705812,44026.657117058116,7.275957614183426e-12,1.6526254979654948e-16
+economic_importance,SE,Health and social work services (85),52752.347422089006,52752.347422089006,0.0,0.0
+economic_importance,SE,Public administration and defence services; compulsory social security services (75),31643.410611074713,31643.410611074713,0.0,0.0
+ghg,SE,Dairy products,109718033222.3866,109718033222.38661,-1.52587890625e-05,-1.3907275417134102e-16
+ghg,SE,Food products nec,55285091745.60438,55285091745.60439,-1.52587890625e-05,-2.760018764681384e-16
+ghg,SE,Hotel and restaurant services (55),117670555609.82619,117670555609.82619,0.0,0.0
+ghg,SE,Public administration and defence services; compulsory social security services (75),47067212378.49366,47067212378.49366,0.0,0.0
+ghg,SE,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",57782057649.01288,57782057649.01288,0.0,0.0
+materials,SE,Construction work (45),98092.27165659427,98092.27165659427,0.0,0.0
+materials,SE,Food products nec,12670.32625263327,12670.326252633267,1.8189894035458565e-12,1.4356294915198547e-16
+materials,SE,"Motor vehicles, trailers and semi-trailers (34)",6985.453600291118,6985.453600291119,-9.094947017729282e-13,-1.3019837419505942e-16
+materials,SE,Precious metal ores and concentrates,23100.553768478614,23100.55376847861,3.637978807091713e-12,1.5748448472503038e-16
+materials,SE,Products of meat cattle,7352.273912002666,7352.273912002666,0.0,0.0

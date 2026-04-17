@@ -1,0 +1,2 @@
+indicator,cba_total,pba_total,cba_to_pba_ratio,suspicious_ratio_threshold,ratio_exceeds_threshold,top_cba_sector,top_cba_sector_share,top_pba_sector,top_pba_sector_share
+ghg,89990163627.69824,51442614122.42393,1.749331078190122,5.0,False,Construction work (45),0.1203955907541773,Steam and hot water supply services,0.10761267511746109
