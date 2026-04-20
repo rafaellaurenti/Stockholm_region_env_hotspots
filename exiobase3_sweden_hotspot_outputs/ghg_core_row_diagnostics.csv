@@ -1,4 +1,0 @@
-raw_row,selected_in_proxy,factor,cba_total_weighted,pba_total_weighted,both_zero,warning
-CO2 - combustion - air,True,1.0,58293284348.48178,32383938665.514168,False,
-CH4 - combustion - air,True,28.0,422334812.9911547,427341056.3191125,False,
-N2O - combustion - air,True,265.0,644184745.6592329,815464734.3313656,False,

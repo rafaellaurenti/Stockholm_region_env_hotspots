@@ -1,3 +1,0 @@
-top_n,impact_total,proxy_total,difference_total,ratio_total,top_n_overlap_count,top_n_jaccard,rank_correlation_like_spearman,top1_impact,top1_proxy,account
-15,89990163627.69824,94128539611.08572,4138375983.3874817,1.0459869814273093,15,1.0,0.999791663475237,Construction work (45),Construction work (45),CBA
-15,51442614122.42393,53801545253.887596,2358931131.463669,1.0458555843575494,15,1.0,0.9959015034852288,Steam and hot water supply services,Steam and hot water supply services,PBA

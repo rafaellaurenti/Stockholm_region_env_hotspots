@@ -1,0 +1,2 @@
+indicator,cba_total,pba_total,cba_to_pba_ratio,suspicious_ratio_threshold,ratio_exceeds_threshold,top_cba_sector,top_cba_sector_share,top_pba_sector,top_pba_sector_share
+ghg,790901642662.4291,25041929813.3894,31.583094775688988,5.0,True,Hotel and restaurant services (55),0.14889690002455042,Paper for treatment: landfill,0.2492048685228112

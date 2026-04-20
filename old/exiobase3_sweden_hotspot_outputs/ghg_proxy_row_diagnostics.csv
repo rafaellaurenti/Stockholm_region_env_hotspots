@@ -1,0 +1,21 @@
+raw_row,factor,cba_total_weighted,pba_total_weighted,cba_share_of_proxy_total,pba_share_of_proxy_total
+CO2 - combustion - air,1.0,0.0,0.0,,0.0
+CO2 - non combustion - Cement production - air,1.0,0.0,1203941769.6779566,,0.04807703634063514
+CO2 - non combustion - Lime production - air,1.0,0.0,457118195.4817223,,0.0182541121586129
+CO2 - agriculture - peat decay - air,1.0,0.0,161445779.61409998,,0.006447018293605243
+CO2 - waste - fossil - air,1.0,0.0,1254493.417342,,5.0095716531848456e-05
+CH4 - combustion - air,28.0,0.0,0.0,,0.0
+CH4 - non combustion - Extraction/production of (natural) gas - air,28.0,0.0,20324073.5180819,,0.0008116017283626058
+CH4 - non combustion - Extraction/production of crude oil - air,28.0,0.0,461627.35166603996,,1.8434176403578028e-05
+CH4 - non combustion - Mining of antracite - air,28.0,0.0,168149.80798244447,,6.714730423552992e-06
+CH4 - non combustion - Mining of bituminous coal - air,28.0,0.0,102723.03002919999,,4.102041288138909e-06
+CH4 - non combustion - Mining of coking coal - air,28.0,0.0,82633.51989563998,,3.2998063851875173e-06
+CH4 - non combustion - Mining of lignite (brown coal) - air,28.0,0.0,489339.70022924,,1.954081430128441e-05
+CH4 - non combustion - Mining of sub-bituminous coal - air,28.0,0.0,36190.6205321724,,1.4452009410561493e-06
+CH4 - non combustion - Oil refinery - air,28.0,0.0,22199335.161533598,,0.0008864865977566983
+CH4 - agriculture - air,28.0,0.0,4205984782.5631995,,0.16795769391200624
+CH4 - waste - air,28.0,0.0,12936875297.466398,,0.5166085598782136
+N2O - combustion - air,265.0,0.0,0.0,,0.0
+N2O - agriculture - air,265.0,0.0,4621978372.882999,,0.18456957619982323
+HFC - air,1.0,0.0,1311306422.2953699,,0.05236443165790848
+PFC - air,1.0,0.0,98160627.28035802,,0.0039198507468012145

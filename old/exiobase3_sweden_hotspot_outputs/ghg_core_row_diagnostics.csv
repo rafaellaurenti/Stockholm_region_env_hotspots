@@ -1,0 +1,4 @@
+raw_row,selected_in_proxy,factor,cba_total_weighted,pba_total_weighted,both_zero,warning
+CO2 - combustion - air,True,1.0,0.0,0.0,True,selected but zero in both CBA and PBA
+CH4 - combustion - air,True,28.0,0.0,0.0,True,selected but zero in both CBA and PBA
+N2O - combustion - air,True,265.0,0.0,0.0,True,selected but zero in both CBA and PBA

@@ -1,0 +1,201 @@
+Product sector,Value added (M EUR),GHG total (kt CO2e),Biomass (kt),Fossil (kt),Metals (kt),Minerals (kt),Material total (kt)
+Paddy rice,0.0,3.7382056976339596e-05,0.0,0.0,0.0,0.0,0.0
+Wheat,287.012618324,598.9143231683635,1249.26802628,0.0,0.0,0.0,1249.26802628
+Cereal grains nec,357.175273556,694.1971961673806,2315.5064134865,0.0,0.0,0.0,2315.5064134865
+"Vegetables, fruit, nuts",286.812268955,76.38695951333769,1009.273520582531,0.0,0.0,0.0,1009.273520582531
+Oil seeds,191.009215361,251.37472942367833,480.89028570520003,0.0,0.0,0.0,480.89028570520003
+"Sugar cane, sugar beet",10.1812561271,69.23629874115012,1492.32249478,0.0,0.0,0.0,1492.32249478
+Plant-based fibers,0.0,0.000197587986359428,0.0,0.0,0.0,0.0,0.0
+Crops nec,174.150670709,157.98880967944638,3.53998081124,0.0,0.0,0.0,3.53998081124
+Cattle,100.368853104,2283.721180898596,4696.797611764,0.0,0.0,0.0,4696.797611764
+Pigs,415.024847457,163.24420156834293,126.2642214756,0.0,0.0,0.0,126.2642214756
+Poultry,323.165242886,246.49526210500505,1133.009040095,0.0,0.0,0.0,1133.009040095
+Meat animals nec,68.5639376423,653.9578427898928,2737.1434565337,0.0,0.0,0.0,2737.1434565337
+Animal products nec,27.2387833892,128.40224901763884,0.0,0.0,0.0,0.0,0.0
+Raw milk,754.108716499,2336.9019801461022,2217.3267342333,0.0,0.0,0.0,2217.3267342333
+"Wool, silk-worm cocoons",0.0386096503753,0.017287538208559463,0.0,0.0,0.0,0.0,0.0
+Manure (conventional treatment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manure (biogas treatment),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Products of forestry, logging and related services (02)",5208.41318249,423.8524084560015,32617.492949469997,0.0,0.0,0.0,32617.492949469997
+Fish and other fishing products; services incidental of fishing (05),136.873036502,15.533589884557829,186.49384158369003,0.0,0.0,0.0,186.49384158369003
+Anthracite,0.0,0.6664123703999383,0.0,0.0,0.0,0.0,0.0
+Coking Coal,0.0,1.0478396197697402,0.0,0.0,0.0,0.0,0.0
+Other Bituminous Coal,0.0,5.14613710511903,0.0,0.0,0.0,0.0,0.0
+Sub-Bituminous Coal,0.0,0.2599743168789527,0.0,0.0,0.0,0.0,0.0
+Patent Fuel,0.0,0.0272055843735032,0.0,0.0,0.0,0.0,0.0
+Lignite/Brown Coal,0.0,0.6715374625377261,0.0,0.0,0.0,0.0,0.0
+BKB/Peat Briquettes,0.0,0.09717782284037912,0.0,0.0,0.0,0.0,0.0
+Peat,17.9042906795,6.782633631666279,0.0,718.454849318,0.0,0.0,718.454849318
+"Crude petroleum and services related to crude oil extraction, excluding surveying",0.0,119.61637307532847,0.0,0.0,0.0,0.0,0.0
+"Natural gas and services related to natural gas extraction, excluding surveying",1.67026344479,69.2090038391959,0.0,0.0,0.0,0.0,0.0
+Natural Gas Liquids,0.0,22.68217025153323,0.0,0.0,0.0,0.0,0.0
+Other Hydrocarbons,0.0,0.007528983244380108,0.0,0.0,0.0,0.0,0.0
+Uranium and thorium ores (12),3.94188035423,3.2374590552073177,0.0,0.0,0.0,0.0,0.0
+Iron ores,324.746017534,223.7017917551568,0.0,0.0,40887.9047967,0.0,40887.9047967
+Copper ores and concentrates,1561.53961205,336.5525137171633,0.0,0.0,25079.4241322,0.0,25079.4241322
+Nickel ores and concentrates,18.992064954,0.002805718939907044,0.0,0.0,0.0,0.0,0.0
+Aluminium ores and concentrates,0.0,0.0005035398641169399,0.0,0.0,0.0,0.0,0.0
+Precious metal ores and concentrates,51.1828156468,27.250918973811654,0.0,0.0,1467.479983802631,0.0,1467.479983802631
+"Lead, zinc and tin ores and concentrates",90.7706593756,41.468647838090924,0.0,0.0,3966.978381179,0.0,3966.978381179
+Other non-ferrous metal ores and concentrates,10.9270250436,0.0448424728945924,0.0,0.0,25.4950538267,0.0,25.4950538267
+Stone,751.071441484,437.25707082183334,0.0,0.0,0.0,37734.4195002,37734.4195002
+Sand and clay,723.247013415,320.7629962695768,0.0,0.0,0.0,18744.51306887,18744.51306887
+"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",122.682930147,99.29003571938497,0.0,0.0,0.0,2415.884294092,2415.884294092
+Products of meat cattle,613.900595361,5.777083653869533,0.0,0.0,0.0,0.0,0.0
+Products of meat pigs,245.354988328,6.358696029150347,0.0,0.0,0.0,0.0,0.0
+Products of meat poultry,281.038352167,8.84186270809456,0.0,0.0,0.0,0.0,0.0
+Meat products nec,770.163184124,38.72914780835527,0.0,0.0,0.0,0.0,0.0
+products of Vegetable oils and fats,27.8347383357,1.1043853779532073,0.0,0.0,0.0,0.0,0.0
+Dairy products,845.254683412,134.50870991689533,0.0,0.0,0.0,0.0,0.0
+Processed rice,2.50689991027,0.4555794943994135,0.0,0.0,0.0,0.0,0.0
+Sugar,31.80427145,16.608100830562254,0.0,0.0,0.0,0.0,0.0
+Food products nec,3050.20706804,238.4959808605672,0.0,0.0,0.0,0.0,0.0
+Beverages,742.704213767,61.44884543395745,0.0,0.0,0.0,0.0,0.0
+Fish products,85.3285812553,59.62080973351151,0.0,0.0,0.0,0.0,0.0
+Tobacco products (16),0.0,0.01061455400908728,0.0,0.0,0.0,0.0,0.0
+Textiles (17),679.290453594,10.898754353251032,0.0,0.0,0.0,0.0,0.0
+Wearing apparel; furs (18),112.549228694,14.337463466236215,0.0,0.0,0.0,0.0,0.0
+Leather and leather products (19),120.735853216,0.5154339916343058,0.0,0.0,0.0,0.0,0.0
+Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20),3680.1283931,421.2444171016625,0.0,0.0,0.0,0.0,0.0
+"Wood material for treatment, Re-processing of secondary wood material into new wood material",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pulp,561.124339527,400.8480470745117,0.0,0.0,0.0,0.0,0.0
+"Secondary paper for treatment, Re-processing of secondary paper into new pulp",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Paper and paper products,3088.89050515,800.2172772336086,0.0,0.0,0.0,0.0,0.0
+Printed matter and recorded media (22),4709.26045915,107.57779394785005,0.0,0.0,0.0,0.0,0.0
+Coke Oven Coke,11.9536526951,202.35464147435013,0.0,0.0,0.0,0.0,0.0
+Gas Coke,0.0,0.0007738179509367611,0.0,0.0,0.0,0.0,0.0
+Coal Tar,0.157828500376,0.09488519631100173,0.0,0.0,0.0,0.0,0.0
+Motor Gasoline,297.894544314,700.0068781480841,0.0,0.0,0.0,0.0,0.0
+Aviation Gasoline,0.0415194699233,0.09661203850521566,0.0,0.0,0.0,0.0,0.0
+Gasoline Type Jet Fuel,0.0,0.06457851324005442,0.0,0.0,0.0,0.0,0.0
+Kerosene Type Jet Fuel,13.7090284052,36.83218099764263,0.0,0.0,0.0,0.0,0.0
+Kerosene,13.9258981289,2.524813550864127,0.0,0.0,0.0,0.0,0.0
+Gas/Diesel Oil,341.439375841,828.1227598238479,0.0,0.0,0.0,0.0,0.0
+Heavy Fuel Oil,153.480762542,373.859971711538,0.0,0.0,0.0,0.0,0.0
+Refinery Gas,2.22168478173,3.3908360788829257,0.0,0.0,0.0,0.0,0.0
+Liquefied Petroleum Gases (LPG),9.45764385612,31.014271814039596,0.0,0.0,0.0,0.0,0.0
+Refinery Feedstocks,2.79835375313,8.05947241524969,0.0,0.0,0.0,0.0,0.0
+Ethane,0.797416723064,0.3715148921303585,0.0,0.0,0.0,0.0,0.0
+Naphtha,9.21318028981,19.396691070454786,0.0,0.0,0.0,0.0,0.0
+White Spirit & SBP,12.300186826,1.6387726198571115,0.0,0.0,0.0,0.0,0.0
+Lubricants,15.4515196408,38.46212595626907,0.0,0.0,0.0,0.0,0.0
+Bitumen,77.0981205468,49.833239797387975,0.0,0.0,0.0,0.0,0.0
+Paraffin Waxes,1.60101487203,2.03383404695917,0.0,0.0,0.0,0.0,0.0
+Petroleum Coke,2.78234894419,3.432739561640499,0.0,0.0,0.0,0.0,0.0
+Non-specified Petroleum Products,7.18196649376,14.142788758428562,0.0,0.0,0.0,0.0,0.0
+Nuclear fuel,428.654810495,38.077642599097004,0.0,0.0,0.0,0.0,0.0
+"Plastics, basic",4334.16927455,453.46035010468216,0.0,0.0,0.0,0.0,0.0
+"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+N-fertiliser,0.286758040653,0.6439164263922134,0.0,0.0,0.0,0.0,0.0
+P- and other fertiliser,0.477646027321,7.020318086999955,0.0,0.0,0.0,0.0,0.0
+Chemicals nec,110.720438672,154.4005228109982,0.0,0.0,0.0,0.0,0.0
+Charcoal,1.10805793338,0.08392373183170926,0.0,0.0,0.0,0.0,0.0
+Additives/Blending Components,0.010772859426,0.011775108832224471,0.0,0.0,0.0,0.0,0.0
+Biogasoline,0.398503013718,11.249640604300659,0.0,0.0,0.0,0.0,0.0
+Biodiesels,0.835106138127,25.382826953181254,0.0,0.0,0.0,0.0,0.0
+Other Liquid Biofuels,0.486253606898,14.473369456229403,0.0,0.0,0.0,0.0,0.0
+Rubber and plastic products (25),2504.82994973,37.22898814989205,0.0,0.0,0.0,0.0,0.0
+Glass and glass products,228.938798863,304.7749331898241,0.0,0.0,0.0,0.0,0.0
+"Secondary glass for treatment, Re-processing of secondary glass into new glass",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ceramic goods,138.6610838,131.73745333931532,0.0,0.0,0.0,0.0,0.0
+"Bricks, tiles and construction products, in baked clay",6.12829520691,40.83960215551536,0.0,0.0,0.0,0.0,0.0
+"Cement, lime and plaster",1125.21282002,2157.7179445933466,0.0,0.0,0.0,0.0,0.0
+"Ash for treatment, Re-processing of ash into clinker",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other non-metallic mineral products,159.205927555,173.42015365286747,0.0,0.0,0.0,0.0,0.0
+Basic iron and steel and of ferro-alloys and first products thereof,2301.85015304,2443.2608019406252,0.0,0.0,0.0,0.0,0.0
+"Secondary steel for treatment, Re-processing of secondary steel into new steel",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Precious metals,14.9401472228,1.7163094167750244,0.0,0.0,0.0,0.0,0.0
+"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aluminium and aluminium products,422.088349829,352.28938886570825,0.0,0.0,0.0,0.0,0.0
+"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Lead, zinc and tin and products thereof",145.938535452,41.986117934175496,0.0,0.0,0.0,0.0,0.0
+"Secondary lead for treatment, Re-processing of secondary lead into new lead",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Copper products,306.689664388,25.59004700318299,0.0,0.0,0.0,0.0,0.0
+"Secondary copper for treatment, Re-processing of secondary copper into new copper",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Other non-ferrous metal products,5.4425003951,16.727192914888356,0.0,0.0,0.0,0.0,0.0
+"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Foundry work services,254.221096797,288.47845211840826,0.0,0.0,0.0,0.0,0.0
+"Fabricated metal products, except machinery and equipment (28)",7524.51152063,175.53360813109492,0.0,0.0,0.0,0.0,0.0
+Machinery and equipment n.e.c. (29),11748.1199271,182.9050900376824,0.0,0.0,0.0,0.0,0.0
+Office machinery and computers (30),407.946852432,6.567672899860165,0.0,0.0,0.0,0.0,0.0
+Electrical machinery and apparatus n.e.c. (31),4772.96505173,35.3123673602655,0.0,0.0,0.0,0.0,0.0
+"Radio, television and communication equipment and apparatus (32)",446.922335533,10.615614442750692,0.0,0.0,0.0,0.0,0.0
+"Medical, precision and optical instruments, watches and clocks (33)",4855.04531008,512.5376222100963,0.0,0.0,0.0,0.0,0.0
+"Motor vehicles, trailers and semi-trailers (34)",10043.0085879,502.47423181723417,0.0,0.0,0.0,0.0,0.0
+Other transport equipment (35),1726.84395084,2120.5442056661905,0.0,0.0,0.0,0.0,0.0
+Furniture; other manufactured goods n.e.c. (36),2608.39969253,323.2484307544713,0.0,0.0,0.0,0.0,0.0
+Secondary raw materials,393.40380065,1466.4045761465995,0.0,0.0,0.0,0.0,0.0
+"Bottles for treatment, Recycling of bottles by direct reuse",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Electricity by coal,16.4327419824,9.575574385625117,0.0,0.0,0.0,0.0,0.0
+Electricity by gas,17.931109871,26.75383258471165,0.0,0.0,0.0,0.0,0.0
+Electricity by nuclear,3015.38102951,79.24624617264855,0.0,0.0,0.0,0.0,0.0
+Electricity by hydro,2672.56025884,560.1929263350042,0.0,0.0,0.0,0.0,0.0
+Electricity by wind,156.43471615,458.0342255809033,0.0,0.0,0.0,0.0,0.0
+Electricity by petroleum and other oil derivatives,18.0365270333,13.729318224820572,0.0,0.0,0.0,0.0,0.0
+Electricity by biomass and waste,377.703416679,112.96334691427823,0.0,0.0,0.0,0.0,0.0
+Electricity by solar photovoltaic,0.289980384051,0.45141506489585137,0.0,0.0,0.0,0.0,0.0
+Electricity by solar thermal,5.1540123053e-06,4.608597262358364e-06,0.0,0.0,0.0,0.0,0.0
+"Electricity by tide, wave, ocean",0.0,0.0023368915788563854,0.0,0.0,0.0,0.0,0.0
+Electricity by Geothermal,8.45275774822e-05,0.0039609183101014436,0.0,0.0,0.0,0.0,0.0
+Electricity nec,16.3147604771,396.4199338311551,0.0,0.0,0.0,0.0,0.0
+Transmission services of electricity,1581.18448895,6.982157130780623,0.0,0.0,0.0,0.0,0.0
+Distribution and trade services of electricity,4676.23482502,18.664707387626635,0.0,0.0,0.0,0.0,0.0
+Coke oven gas,2.28453425318,21.622997605270385,0.0,0.0,0.0,0.0,0.0
+Blast Furnace Gas,4.54476834315,41.99667179047386,0.0,0.0,0.0,0.0,0.0
+Oxygen Steel Furnace Gas,0.0915781843668,0.7422079704390819,0.0,0.0,0.0,0.0,0.0
+Gas Works Gas,0.351924828892,3.2686713533235596,0.0,0.0,0.0,0.0,0.0
+Biogas,5.3160276781,46.24238988153543,0.0,0.0,0.0,0.0,0.0
+Distribution services of gaseous fuels through mains,43.3705008083,401.858808804949,0.0,0.0,0.0,0.0,0.0
+Steam and hot water supply services,2123.37498407,5524.129572228736,0.0,0.0,0.0,0.0,0.0
+"Collected and purified water, distribution services of water (41)",1614.47798291,240.59228769261864,0.0,0.0,0.0,0.0,0.0
+Construction work (45),34933.6958647,1172.927762728011,0.0,0.0,0.0,0.0,0.0
+"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",4757.94412191,33.223745911899734,0.0,0.0,0.0,0.0,0.0
+Retail trade services of motor fuel,232.003989278,82.5428723868119,0.0,0.0,0.0,0.0,0.0
+"Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)",19804.5333441,208.95528046947302,0.0,0.0,0.0,0.0,0.0
+"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)",13244.7518984,161.48128701315034,0.0,0.0,0.0,0.0,0.0
+Hotel and restaurant services (55),10080.7854801,237.73753411130406,0.0,0.0,0.0,0.0,0.0
+Railway transportation services,3793.85213612,22.447387846012496,0.0,0.0,0.0,0.0,0.0
+Other land transportation services,20523.2528402,91.26336319063518,0.0,0.0,0.0,0.0,0.0
+Transportation services via pipelines,269.667294539,37.90883594546695,0.0,0.0,0.0,0.0,0.0
+Sea and coastal water transportation services,2343.14363777,2850.879697164763,0.0,0.0,0.0,0.0,0.0
+Inland water transportation services,104.349599495,189.57391466507127,0.0,0.0,0.0,0.0,0.0
+Air transport services (62),2305.50857079,1495.2457914523634,0.0,0.0,0.0,0.0,0.0
+Supporting and auxiliary transport services; travel agency services (63),18938.5848633,213.11549522599347,0.0,0.0,0.0,0.0,0.0
+Post and telecommunication services (64),14571.4227282,89.60695304633124,0.0,0.0,0.0,0.0,0.0
+"Financial intermediation services, except insurance and pension funding services (65)",11768.6908635,38.503260920920226,0.0,0.0,0.0,0.0,0.0
+"Insurance and pension funding services, except compulsory social security services (66)",5417.09343731,140.2718095859316,0.0,0.0,0.0,0.0,0.0
+Services auxiliary to financial intermediation (67),1544.7324381,28.364233728659745,0.0,0.0,0.0,0.0,0.0
+Real estate services (70),7580.06118235,647.7049096694755,0.0,0.0,0.0,0.0,0.0
+Renting services of machinery and equipment without operator and of personal and household goods (71),10270.6565864,463.6642095243186,0.0,0.0,0.0,0.0,0.0
+Computer and related services (72),26654.2555648,663.9378632090932,0.0,0.0,0.0,0.0,0.0
+Research and development services (73),7467.84712348,103.86907794978165,0.0,0.0,0.0,0.0,0.0
+Other business services (74),47257.8326231,1380.2907582139762,0.0,0.0,0.0,0.0,0.0
+Public administration and defence services; compulsory social security services (75),18579.7759562,70.7741536135688,0.0,0.0,0.0,0.0,0.0
+Education services (80),26784.1436445,45.72126737225144,0.0,0.0,0.0,0.0,0.0
+Health and social work services (85),53334.1478248,109.9896607060861,0.0,0.0,0.0,0.0,0.0
+Food waste for treatment: incineration,216.065192762,67.76042070287458,0.0,0.0,0.0,0.0,0.0
+Paper waste for treatment: incineration,208.215359507,30.145149032251183,0.0,0.0,0.0,0.0,0.0
+Plastic waste for treatment: incineration,152.633668263,16.877042753386085,0.0,0.0,0.0,0.0,0.0
+Intert/metal waste for treatment: incineration,1195.86284554,170.66469302077073,0.0,0.0,0.0,0.0,0.0
+Textiles waste for treatment: incineration,60.0688707705,9.741827553628271,0.0,0.0,0.0,0.0,0.0
+Wood waste for treatment: incineration,215.378760529,24.27277406470713,0.0,0.0,0.0,0.0,0.0
+Oil/hazardous waste for treatment: incineration,192.163608437,22.301804987656556,0.0,0.0,0.0,0.0,0.0
+Food waste for treatment: biogasification and land application,7.16756547059,2.3835043624765917,0.0,0.0,0.0,0.0,0.0
+Paper waste for treatment: biogasification and land application,1.14605021252,0.5005115494626086,0.0,0.0,0.0,0.0,0.0
+Sewage sludge for treatment: biogasification and land application,123.844234897,13.31093855673104,0.0,0.0,0.0,0.0,0.0
+Food waste for treatment: composting and land application,160.335801568,26.645330301767746,0.0,0.0,0.0,0.0,0.0
+Paper and wood waste for treatment: composting and land application,0.00158122130499,0.0015817712427121915,0.0,0.0,0.0,0.0,0.0
+Food waste for treatment: waste water treatment,48.8510069625,65.01137083733067,0.0,0.0,0.0,0.0,0.0
+Other waste for treatment: waste water treatment,81.0603650287,132.5365919636189,0.0,0.0,0.0,0.0,0.0
+Food waste for treatment: landfill,6.20136348327,4532.150324768107,0.0,0.0,0.0,0.0,0.0
+Paper for treatment: landfill,49.9989643237,3235.747638496673,0.0,0.0,0.0,0.0,0.0
+Plastic waste for treatment: landfill,7.02806443973,197.3848043217182,0.0,0.0,0.0,0.0,0.0
+Inert/metal/hazardous waste for treatment: landfill,114.525163502,53.913645031328116,0.0,0.0,0.0,0.0,0.0
+Textiles waste for treatment: landfill,0.948161051323,110.31542609525937,0.0,0.0,0.0,0.0,0.0
+Wood waste for treatment: landfill,1.08880497364,48.96375071408661,0.0,0.0,0.0,0.0,0.0
+Membership organisation services n.e.c. (91),16987.2760437,71.11003989201248,0.0,0.0,0.0,0.0,0.0
+"Recreational, cultural and sporting services (92)",8826.90373678,27.107981635753,0.0,0.0,0.0,0.0,0.0
+Other services (93),3359.0315101,247.61893787298035,0.0,0.0,0.0,0.0,0.0
+Private households with employed persons (95),129.494922168,0.1556710560444711,0.0,0.0,0.0,0.0,0.0
+Extra-territorial organizations and bodies,0.0,0.0,0.0,0.0,0.0,0.0,0.0
