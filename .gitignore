@@ -3,9 +3,13 @@ outputs/
  
 # Supporting material folder
 Supporting material/
+SCB/
  
 # Old files folder
 old/
  
 # Large Word document
 Hybrid method for regional circular economy analysis.docx
+
+# not run notebook versions folder
+not_run/
